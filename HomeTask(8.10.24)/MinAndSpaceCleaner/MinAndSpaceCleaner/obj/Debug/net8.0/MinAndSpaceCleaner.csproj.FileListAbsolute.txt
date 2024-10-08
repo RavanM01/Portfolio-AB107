@@ -1,0 +1,14 @@
+C:\Users\meher\source\repos\MinAndSpaceCleaner\MinAndSpaceCleaner\bin\Debug\net8.0\MinAndSpaceCleaner.exe
+C:\Users\meher\source\repos\MinAndSpaceCleaner\MinAndSpaceCleaner\bin\Debug\net8.0\MinAndSpaceCleaner.deps.json
+C:\Users\meher\source\repos\MinAndSpaceCleaner\MinAndSpaceCleaner\bin\Debug\net8.0\MinAndSpaceCleaner.runtimeconfig.json
+C:\Users\meher\source\repos\MinAndSpaceCleaner\MinAndSpaceCleaner\bin\Debug\net8.0\MinAndSpaceCleaner.dll
+C:\Users\meher\source\repos\MinAndSpaceCleaner\MinAndSpaceCleaner\bin\Debug\net8.0\MinAndSpaceCleaner.pdb
+C:\Users\meher\source\repos\MinAndSpaceCleaner\MinAndSpaceCleaner\obj\Debug\net8.0\MinAndSpaceCleaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meher\source\repos\MinAndSpaceCleaner\MinAndSpaceCleaner\obj\Debug\net8.0\MinAndSpaceCleaner.AssemblyInfoInputs.cache
+C:\Users\meher\source\repos\MinAndSpaceCleaner\MinAndSpaceCleaner\obj\Debug\net8.0\MinAndSpaceCleaner.AssemblyInfo.cs
+C:\Users\meher\source\repos\MinAndSpaceCleaner\MinAndSpaceCleaner\obj\Debug\net8.0\MinAndSpaceCleaner.csproj.CoreCompileInputs.cache
+C:\Users\meher\source\repos\MinAndSpaceCleaner\MinAndSpaceCleaner\obj\Debug\net8.0\MinAndSpaceCleaner.dll
+C:\Users\meher\source\repos\MinAndSpaceCleaner\MinAndSpaceCleaner\obj\Debug\net8.0\refint\MinAndSpaceCleaner.dll
+C:\Users\meher\source\repos\MinAndSpaceCleaner\MinAndSpaceCleaner\obj\Debug\net8.0\MinAndSpaceCleaner.pdb
+C:\Users\meher\source\repos\MinAndSpaceCleaner\MinAndSpaceCleaner\obj\Debug\net8.0\MinAndSpaceCleaner.genruntimeconfig.cache
+C:\Users\meher\source\repos\MinAndSpaceCleaner\MinAndSpaceCleaner\obj\Debug\net8.0\ref\MinAndSpaceCleaner.dll
