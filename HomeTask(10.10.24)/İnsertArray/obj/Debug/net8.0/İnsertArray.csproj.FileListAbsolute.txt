@@ -1,0 +1,14 @@
+C:\Users\meher\source\repos\İnsertArray\İnsertArray\bin\Debug\net8.0\İnsertArray.exe
+C:\Users\meher\source\repos\İnsertArray\İnsertArray\bin\Debug\net8.0\İnsertArray.deps.json
+C:\Users\meher\source\repos\İnsertArray\İnsertArray\bin\Debug\net8.0\İnsertArray.runtimeconfig.json
+C:\Users\meher\source\repos\İnsertArray\İnsertArray\bin\Debug\net8.0\İnsertArray.dll
+C:\Users\meher\source\repos\İnsertArray\İnsertArray\bin\Debug\net8.0\İnsertArray.pdb
+C:\Users\meher\source\repos\İnsertArray\İnsertArray\obj\Debug\net8.0\İnsertArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meher\source\repos\İnsertArray\İnsertArray\obj\Debug\net8.0\İnsertArray.AssemblyInfoInputs.cache
+C:\Users\meher\source\repos\İnsertArray\İnsertArray\obj\Debug\net8.0\İnsertArray.AssemblyInfo.cs
+C:\Users\meher\source\repos\İnsertArray\İnsertArray\obj\Debug\net8.0\İnsertArray.csproj.CoreCompileInputs.cache
+C:\Users\meher\source\repos\İnsertArray\İnsertArray\obj\Debug\net8.0\İnsertArray.dll
+C:\Users\meher\source\repos\İnsertArray\İnsertArray\obj\Debug\net8.0\refint\İnsertArray.dll
+C:\Users\meher\source\repos\İnsertArray\İnsertArray\obj\Debug\net8.0\İnsertArray.pdb
+C:\Users\meher\source\repos\İnsertArray\İnsertArray\obj\Debug\net8.0\İnsertArray.genruntimeconfig.cache
+C:\Users\meher\source\repos\İnsertArray\İnsertArray\obj\Debug\net8.0\ref\İnsertArray.dll
