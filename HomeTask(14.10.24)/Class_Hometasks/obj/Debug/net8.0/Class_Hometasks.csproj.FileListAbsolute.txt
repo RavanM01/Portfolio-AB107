@@ -1,0 +1,14 @@
+C:\Users\meher\source\repos\Class_Hometasks\Class_Hometasks\obj\Debug\net8.0\Class_Hometasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meher\source\repos\Class_Hometasks\Class_Hometasks\obj\Debug\net8.0\Class_Hometasks.AssemblyInfoInputs.cache
+C:\Users\meher\source\repos\Class_Hometasks\Class_Hometasks\obj\Debug\net8.0\Class_Hometasks.AssemblyInfo.cs
+C:\Users\meher\source\repos\Class_Hometasks\Class_Hometasks\obj\Debug\net8.0\Class_Hometasks.csproj.CoreCompileInputs.cache
+C:\Users\meher\source\repos\Class_Hometasks\Class_Hometasks\bin\Debug\net8.0\Class_Hometasks.exe
+C:\Users\meher\source\repos\Class_Hometasks\Class_Hometasks\bin\Debug\net8.0\Class_Hometasks.deps.json
+C:\Users\meher\source\repos\Class_Hometasks\Class_Hometasks\bin\Debug\net8.0\Class_Hometasks.runtimeconfig.json
+C:\Users\meher\source\repos\Class_Hometasks\Class_Hometasks\bin\Debug\net8.0\Class_Hometasks.dll
+C:\Users\meher\source\repos\Class_Hometasks\Class_Hometasks\bin\Debug\net8.0\Class_Hometasks.pdb
+C:\Users\meher\source\repos\Class_Hometasks\Class_Hometasks\obj\Debug\net8.0\Class_Hometasks.dll
+C:\Users\meher\source\repos\Class_Hometasks\Class_Hometasks\obj\Debug\net8.0\refint\Class_Hometasks.dll
+C:\Users\meher\source\repos\Class_Hometasks\Class_Hometasks\obj\Debug\net8.0\Class_Hometasks.pdb
+C:\Users\meher\source\repos\Class_Hometasks\Class_Hometasks\obj\Debug\net8.0\Class_Hometasks.genruntimeconfig.cache
+C:\Users\meher\source\repos\Class_Hometasks\Class_Hometasks\obj\Debug\net8.0\ref\Class_Hometasks.dll
