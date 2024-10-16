@@ -1,0 +1,64 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task15
+{
+    internal class Department
+    {
+        public int No;
+        Employees[] Employees = new Employees[0];
+        public int EmployeeLimit;
+        public Department(int no,int employeelimit)
+        {
+            No = no;
+            EmployeeLimit = employeelimit;
+        }
+        public void AddEmployee(Employees employees)
+        {
+            if (employees.DepartmentNo == No)
+            {
+                Employees[] newemployees = new Employees[Employees.Length + 1];
+                for (int i = 0; i < Employees.Length; i++)
+                {
+                    newemployees[i] = Employees[i];
+                }
+                newemployees[newemployees.Length - 1] = employees;
+                Employees = newemployees;
+            }
+            else
+            {
+            Console.WriteLine("Duzgun departmente daxil edilmir");
+            }
+        }
+        public void GetEmployeeInfo(int id)
+        {
+            for (int i = 0; i < Employees.Length; i++)
+            {
+                Console.WriteLine(Employees[i].Name + " " + Employees[i].SurName + " " + "Yas:" + Employees[i].Age + " " + Employees[i].Salary);
+            }
+        }
+        
+    }
+}
+/*
+Employee class
+ -Name
+ - Surname
+ - Age
+ - DepartmentNo
+ - Salary-> (encapsulation)
+
+Department class
+ -No
+ - Employees
+ - EmployeeLimit
+ - AddEmployee()
+ - GetEmployee()
+ - GetEmployeeInfo()
+ - GetAllEmployees()
+ - GetAllEmployeesBySalary()
+ - GetAllEmployeesByDepartmentNo()
+*/
