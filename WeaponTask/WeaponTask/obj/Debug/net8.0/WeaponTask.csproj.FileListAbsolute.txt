@@ -1,0 +1,14 @@
+C:\Users\I Novbe\source\repos\WeaponTask\WeaponTask\bin\Debug\net8.0\WeaponTask.exe
+C:\Users\I Novbe\source\repos\WeaponTask\WeaponTask\bin\Debug\net8.0\WeaponTask.deps.json
+C:\Users\I Novbe\source\repos\WeaponTask\WeaponTask\bin\Debug\net8.0\WeaponTask.runtimeconfig.json
+C:\Users\I Novbe\source\repos\WeaponTask\WeaponTask\bin\Debug\net8.0\WeaponTask.dll
+C:\Users\I Novbe\source\repos\WeaponTask\WeaponTask\bin\Debug\net8.0\WeaponTask.pdb
+C:\Users\I Novbe\source\repos\WeaponTask\WeaponTask\obj\Debug\net8.0\WeaponTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\source\repos\WeaponTask\WeaponTask\obj\Debug\net8.0\WeaponTask.AssemblyInfoInputs.cache
+C:\Users\I Novbe\source\repos\WeaponTask\WeaponTask\obj\Debug\net8.0\WeaponTask.AssemblyInfo.cs
+C:\Users\I Novbe\source\repos\WeaponTask\WeaponTask\obj\Debug\net8.0\WeaponTask.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\source\repos\WeaponTask\WeaponTask\obj\Debug\net8.0\WeaponTask.dll
+C:\Users\I Novbe\source\repos\WeaponTask\WeaponTask\obj\Debug\net8.0\refint\WeaponTask.dll
+C:\Users\I Novbe\source\repos\WeaponTask\WeaponTask\obj\Debug\net8.0\WeaponTask.pdb
+C:\Users\I Novbe\source\repos\WeaponTask\WeaponTask\obj\Debug\net8.0\WeaponTask.genruntimeconfig.cache
+C:\Users\I Novbe\source\repos\WeaponTask\WeaponTask\obj\Debug\net8.0\ref\WeaponTask.dll
