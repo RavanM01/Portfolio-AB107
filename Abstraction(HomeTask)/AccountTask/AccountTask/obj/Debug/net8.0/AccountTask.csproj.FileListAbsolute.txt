@@ -1,0 +1,14 @@
+C:\Users\meher\source\repos\AccountTask\AccountTask\obj\Debug\net8.0\AccountTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meher\source\repos\AccountTask\AccountTask\obj\Debug\net8.0\AccountTask.AssemblyInfoInputs.cache
+C:\Users\meher\source\repos\AccountTask\AccountTask\obj\Debug\net8.0\AccountTask.AssemblyInfo.cs
+C:\Users\meher\source\repos\AccountTask\AccountTask\obj\Debug\net8.0\AccountTask.csproj.CoreCompileInputs.cache
+C:\Users\meher\source\repos\AccountTask\AccountTask\bin\Debug\net8.0\AccountTask.exe
+C:\Users\meher\source\repos\AccountTask\AccountTask\bin\Debug\net8.0\AccountTask.deps.json
+C:\Users\meher\source\repos\AccountTask\AccountTask\bin\Debug\net8.0\AccountTask.runtimeconfig.json
+C:\Users\meher\source\repos\AccountTask\AccountTask\bin\Debug\net8.0\AccountTask.dll
+C:\Users\meher\source\repos\AccountTask\AccountTask\bin\Debug\net8.0\AccountTask.pdb
+C:\Users\meher\source\repos\AccountTask\AccountTask\obj\Debug\net8.0\AccountTask.dll
+C:\Users\meher\source\repos\AccountTask\AccountTask\obj\Debug\net8.0\refint\AccountTask.dll
+C:\Users\meher\source\repos\AccountTask\AccountTask\obj\Debug\net8.0\AccountTask.pdb
+C:\Users\meher\source\repos\AccountTask\AccountTask\obj\Debug\net8.0\AccountTask.genruntimeconfig.cache
+C:\Users\meher\source\repos\AccountTask\AccountTask\obj\Debug\net8.0\ref\AccountTask.dll

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meher\\source\\repos\\AccountTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B480152A-B0CA-4A26-91C9-C7077B91E0F1}|AccountTask\\AccountTask.csproj|c:\\users\\meher\\source\\repos\\accounttask\\accounttask\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B480152A-B0CA-4A26-91C9-C7077B91E0F1}|AccountTask\\AccountTask.csproj|solutionrelative:accounttask\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B480152A-B0CA-4A26-91C9-C7077B91E0F1}|AccountTask\\AccountTask.csproj|c:\\users\\meher\\source\\repos\\accounttask\\accounttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B480152A-B0CA-4A26-91C9-C7077B91E0F1}|AccountTask\\AccountTask.csproj|solutionrelative:accounttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B480152A-B0CA-4A26-91C9-C7077B91E0F1}|AccountTask\\AccountTask.csproj|c:\\users\\meher\\source\\repos\\accounttask\\accounttask\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B480152A-B0CA-4A26-91C9-C7077B91E0F1}|AccountTask\\AccountTask.csproj|solutionrelative:accounttask\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\AccountTask\\AccountTask\\User.cs",
+              "RelativeDocumentMoniker": "AccountTask\\User.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\AccountTask\\AccountTask\\User.cs",
+              "RelativeToolTip": "AccountTask\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:28:35.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\AccountTask\\AccountTask\\IAccount.cs",
+              "RelativeDocumentMoniker": "AccountTask\\IAccount.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\AccountTask\\AccountTask\\IAccount.cs",
+              "RelativeToolTip": "AccountTask\\IAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:19:42.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\AccountTask\\AccountTask\\Program.cs",
+              "RelativeDocumentMoniker": "AccountTask\\Program.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\AccountTask\\AccountTask\\Program.cs",
+              "RelativeToolTip": "AccountTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:15:20.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

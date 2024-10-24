@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meher\\source\\repos\\StudentGroup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12B87633-C731-4D95-8C10-6207F78A4559}|StudentGroup\\StudentGroup.csproj|c:\\users\\meher\\source\\repos\\studentgroup\\studentgroup\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B87633-C731-4D95-8C10-6207F78A4559}|StudentGroup\\StudentGroup.csproj|solutionrelative:studentgroup\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B87633-C731-4D95-8C10-6207F78A4559}|StudentGroup\\StudentGroup.csproj|c:\\users\\meher\\source\\repos\\studentgroup\\studentgroup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B87633-C731-4D95-8C10-6207F78A4559}|StudentGroup\\StudentGroup.csproj|solutionrelative:studentgroup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B87633-C731-4D95-8C10-6207F78A4559}|StudentGroup\\StudentGroup.csproj|c:\\users\\meher\\source\\repos\\studentgroup\\studentgroup\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B87633-C731-4D95-8C10-6207F78A4559}|StudentGroup\\StudentGroup.csproj|solutionrelative:studentgroup\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\StudentGroup\\StudentGroup\\Group.cs",
+              "RelativeDocumentMoniker": "StudentGroup\\Group.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\StudentGroup\\StudentGroup\\Group.cs",
+              "RelativeToolTip": "StudentGroup\\Group.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:09:25.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\StudentGroup\\StudentGroup\\Student.cs",
+              "RelativeDocumentMoniker": "StudentGroup\\Student.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\StudentGroup\\StudentGroup\\Student.cs",
+              "RelativeToolTip": "StudentGroup\\Student.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:01:15.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\StudentGroup\\StudentGroup\\Program.cs",
+              "RelativeDocumentMoniker": "StudentGroup\\Program.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\StudentGroup\\StudentGroup\\Program.cs",
+              "RelativeToolTip": "StudentGroup\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:59:11.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
