@@ -8,7 +8,8 @@ namespace ProductApp
 {
     public enum Type
     {
-        Baker,
+
+        Baker=0,
         Drink,
         Meat,
         Diary

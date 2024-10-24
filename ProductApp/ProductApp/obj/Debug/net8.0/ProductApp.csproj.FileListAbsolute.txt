@@ -12,3 +12,18 @@ C:\Users\I Novbe\source\repos\ProductApp\ProductApp\obj\Debug\net8.0\refint\Prod
 C:\Users\I Novbe\source\repos\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.pdb
 C:\Users\I Novbe\source\repos\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.genruntimeconfig.cache
 C:\Users\I Novbe\source\repos\ProductApp\ProductApp\obj\Debug\net8.0\ref\ProductApp.dll
+C:\Users\meher\OneDrive\Desktop\CodeAca\Portfolio-AB107\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meher\OneDrive\Desktop\CodeAca\Portfolio-AB107\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.AssemblyInfoInputs.cache
+C:\Users\meher\OneDrive\Desktop\CodeAca\Portfolio-AB107\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.AssemblyInfo.cs
+C:\Users\meher\OneDrive\Desktop\CodeAca\Portfolio-AB107\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.csproj.CoreCompileInputs.cache
+C:\Users\meher\OneDrive\Desktop\CodeAca\Portfolio-AB107\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.sourcelink.json
+C:\Users\meher\OneDrive\Desktop\CodeAca\Portfolio-AB107\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.dll
+C:\Users\meher\OneDrive\Desktop\CodeAca\Portfolio-AB107\ProductApp\ProductApp\obj\Debug\net8.0\refint\ProductApp.dll
+C:\Users\meher\OneDrive\Desktop\CodeAca\Portfolio-AB107\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.pdb
+C:\Users\meher\OneDrive\Desktop\CodeAca\Portfolio-AB107\ProductApp\ProductApp\bin\Debug\net8.0\ProductApp.exe
+C:\Users\meher\OneDrive\Desktop\CodeAca\Portfolio-AB107\ProductApp\ProductApp\bin\Debug\net8.0\ProductApp.deps.json
+C:\Users\meher\OneDrive\Desktop\CodeAca\Portfolio-AB107\ProductApp\ProductApp\bin\Debug\net8.0\ProductApp.runtimeconfig.json
+C:\Users\meher\OneDrive\Desktop\CodeAca\Portfolio-AB107\ProductApp\ProductApp\bin\Debug\net8.0\ProductApp.dll
+C:\Users\meher\OneDrive\Desktop\CodeAca\Portfolio-AB107\ProductApp\ProductApp\bin\Debug\net8.0\ProductApp.pdb
+C:\Users\meher\OneDrive\Desktop\CodeAca\Portfolio-AB107\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.genruntimeconfig.cache
+C:\Users\meher\OneDrive\Desktop\CodeAca\Portfolio-AB107\ProductApp\ProductApp\obj\Debug\net8.0\ref\ProductApp.dll

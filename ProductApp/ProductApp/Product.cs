@@ -18,8 +18,9 @@ namespace ProductApp
         }
         private static int _no;
         public int No { get;}
+        private double _price;
         public string Name { get; set; }
-        public double Price { get; set; }
+        public double Price { get { return _price; } set { if (value > 0) { _price = value; } else { throw new PriceMustBeGratherThanZeroException("Qiymet 0-dan boyuk olmalidir"); } } }
         public Type Type{ get; set; }
 
 

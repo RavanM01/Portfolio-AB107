@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\ProductApp\\",
+  "WorkspaceRootPath": "C:\\Users\\meher\\OneDrive\\Desktop\\CodeAca\\Portfolio-AB107\\ProductApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|c:\\users\\i novbe\\source\\repos\\productapp\\productapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|c:\\users\\i novbe\\source\\repos\\productapp\\productapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|c:\\users\\meher\\onedrive\\desktop\\codeaca\\portfolio-ab107\\productapp\\productapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|c:\\users\\i novbe\\source\\repos\\productapp\\productapp\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|c:\\users\\meher\\onedrive\\desktop\\codeaca\\portfolio-ab107\\productapp\\productapp\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|c:\\users\\meher\\onedrive\\desktop\\codeaca\\portfolio-ab107\\productapp\\productapp\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|c:\\users\\i novbe\\source\\repos\\productapp\\productapp\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|c:\\users\\meher\\onedrive\\desktop\\codeaca\\portfolio-ab107\\productapp\\productapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|c:\\users\\meher\\onedrive\\desktop\\codeaca\\portfolio-ab107\\productapp\\productapp\\pricemustbegratherthanzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\pricemustbegratherthanzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PriceMustBeGratherThanZeroException.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\CodeAca\\Portfolio-AB107\\ProductApp\\ProductApp\\PriceMustBeGratherThanZeroException.cs",
+              "RelativeDocumentMoniker": "ProductApp\\PriceMustBeGratherThanZeroException.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\CodeAca\\Portfolio-AB107\\ProductApp\\ProductApp\\PriceMustBeGratherThanZeroException.cs",
+              "RelativeToolTip": "ProductApp\\PriceMustBeGratherThanZeroException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:44:37.485Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Store.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ProductApp\\ProductApp\\Store.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\CodeAca\\Portfolio-AB107\\ProductApp\\ProductApp\\Store.cs",
               "RelativeDocumentMoniker": "ProductApp\\Store.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ProductApp\\ProductApp\\Store.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\CodeAca\\Portfolio-AB107\\ProductApp\\ProductApp\\Store.cs",
               "RelativeToolTip": "ProductApp\\Store.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowCsAAAANAAAAAAAAAA==",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADQAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T08:20:02.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Type.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ProductApp\\ProductApp\\Type.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\CodeAca\\Portfolio-AB107\\ProductApp\\ProductApp\\Type.cs",
               "RelativeDocumentMoniker": "ProductApp\\Type.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ProductApp\\ProductApp\\Type.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\CodeAca\\Portfolio-AB107\\ProductApp\\ProductApp\\Type.cs",
               "RelativeToolTip": "ProductApp\\Type.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "ViewState": "AQIAAAEAAAAAAAAAAAASwAsAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T08:17:21.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ProductApp\\ProductApp\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\CodeAca\\Portfolio-AB107\\ProductApp\\ProductApp\\Product.cs",
               "RelativeDocumentMoniker": "ProductApp\\Product.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ProductApp\\ProductApp\\Product.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\CodeAca\\Portfolio-AB107\\ProductApp\\ProductApp\\Product.cs",
               "RelativeToolTip": "ProductApp\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAACzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T08:14:29.398Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ProductApp\\ProductApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\CodeAca\\Portfolio-AB107\\ProductApp\\ProductApp\\Program.cs",
               "RelativeDocumentMoniker": "ProductApp\\Program.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ProductApp\\ProductApp\\Program.cs",
+              "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\CodeAca\\Portfolio-AB107\\ProductApp\\ProductApp\\Program.cs",
               "RelativeToolTip": "ProductApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T08:14:09.569Z",
               "EditorCaption": ""
