@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\ProductApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|c:\\users\\i novbe\\source\\repos\\productapp\\productapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|c:\\users\\i novbe\\source\\repos\\productapp\\productapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|c:\\users\\i novbe\\source\\repos\\productapp\\productapp\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|c:\\users\\i novbe\\source\\repos\\productapp\\productapp\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C353AC-84BB-49DE-A6E6-CBF4D861A3FA}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ProductApp\\ProductApp\\Store.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Store.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ProductApp\\ProductApp\\Store.cs",
+              "RelativeToolTip": "ProductApp\\Store.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:20:02.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Type.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ProductApp\\ProductApp\\Type.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Type.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ProductApp\\ProductApp\\Type.cs",
+              "RelativeToolTip": "ProductApp\\Type.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:17:21.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ProductApp\\ProductApp\\Product.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Product.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ProductApp\\ProductApp\\Product.cs",
+              "RelativeToolTip": "ProductApp\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:14:29.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ProductApp\\ProductApp\\Program.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ProductApp\\ProductApp\\Program.cs",
+              "RelativeToolTip": "ProductApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:14:09.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

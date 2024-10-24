@@ -1,0 +1,14 @@
+C:\Users\I Novbe\source\repos\ProductApp\ProductApp\bin\Debug\net8.0\ProductApp.exe
+C:\Users\I Novbe\source\repos\ProductApp\ProductApp\bin\Debug\net8.0\ProductApp.deps.json
+C:\Users\I Novbe\source\repos\ProductApp\ProductApp\bin\Debug\net8.0\ProductApp.runtimeconfig.json
+C:\Users\I Novbe\source\repos\ProductApp\ProductApp\bin\Debug\net8.0\ProductApp.dll
+C:\Users\I Novbe\source\repos\ProductApp\ProductApp\bin\Debug\net8.0\ProductApp.pdb
+C:\Users\I Novbe\source\repos\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\source\repos\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.AssemblyInfoInputs.cache
+C:\Users\I Novbe\source\repos\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.AssemblyInfo.cs
+C:\Users\I Novbe\source\repos\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\source\repos\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.dll
+C:\Users\I Novbe\source\repos\ProductApp\ProductApp\obj\Debug\net8.0\refint\ProductApp.dll
+C:\Users\I Novbe\source\repos\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.pdb
+C:\Users\I Novbe\source\repos\ProductApp\ProductApp\obj\Debug\net8.0\ProductApp.genruntimeconfig.cache
+C:\Users\I Novbe\source\repos\ProductApp\ProductApp\obj\Debug\net8.0\ref\ProductApp.dll
