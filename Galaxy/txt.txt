@@ -1,0 +1,106 @@
+Aşağıdakı cu	stom exception-ı yaradın:
+- NotAvailableException
+
+Room class
+- Id - qıraqdan set etmək olmayacaq yalnız get etmək olacaq və hər dəfə yeni bir Room obyekt yaradıldıqda avtomatik bir vahid artacaq.
+- Name
+- Price
+- PersonCapacity - otağın neçə nəfərlik olduğunu bildirir.
+- IsAvialable - otağın rezervasiya olunub olunmadığını göstərir, default olaraq true olmalıdır.
+
+ToString methodunu override edirsiz və geriyə ShowInfo methodunu qaytarırsız.
+
+ps: Name, Price, PersonCapacity olmadan Room obyekti yaratmaq olmaz
+
+Hotel class
+-Id
+- Name
+- Rooms List - içində Room obyektləri saxlayır və private-dır.
+- AddRoom() - Parametr olaraq Room obyekti qəbul edib rooms arrayinə əlavə edir.
+-FindAllRoom()-Parametr olaraq bir şərt qebul edecek ve gelen serte uygun olaraq otaqlari geriye qaytaracaq;
+- MakeReservation() - Parametr olaraq nullable int tipindən bir roomId ve musteri sayi qəbul edir əgər roomId null olarsa geriyə NullReferanceException qaytarır əks halda göndərilən
+roomId-li otaq tapılır IsAvailable dəyəri ve Personal Capacity yoxlanılır əgər IsAvailable dəyəri false-dusa geriyə yuxarıda yaratdığınız NotAvailableException qaytarılır
+əgər true-dursa Personal Capacityde uygun gelirse həmin room-un IsAvailable dəyəri true olur.
+
+ps: Name dəyəri olmadan bir Hotel obyekti yaratmaq olmaz.
+
+******Menu******
+1.Sisteme giris
+0.Cixis
+
+Sisteme giris oldugu zaman
+1.Hotel yarat (Hotel yarat secdikden sonra bir otel yaradirsiz. eyni adda hotel ola bilmez :D)
+2.Butun Hotelleri gor
+3.Hotel sec (hotelin adini daxil ederek secilecek)
+0.Exit
+
+Hotel secildikden sonra
+1.Room yarat
+2.Roomlari gor
+3.Rezervasya et(eger hec bir otaq yoxdursa rezervasya xidmeti islemir)
+4.Evvelki menuya qayit.
+0.Exit
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^onemlii^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Country classlariniz , Region adli Enum olacaq(Avrupa Asiya ve.s) olacaq 
+
+
+
+
+AppDbContext
+List Countries
+List Planets
+
+CreateCountry()
+UpdateCountry()
+RemoveCountry()
+GetAllCountries()
+GetCountryByRegion()
+
+CreatePlanet()
+UpdatePlanet()
+RemovePlanet()
+GetAllPlanets()
+
+
+
+
+Country Class
+=================
+CountryId
+CountryName
+Area
+Anthem
+Region(ENUM)
+
+
+
+
+Planet Class
+===================
+PlanetId
+Name
+Area
+Country[] Countries
+
+
+
+
+***Menu***
+
+1.Sisteme giris
+0.Cixis
+
+Sisteme giris oldugu zaman
+1.planet yarat 
+2.Butun Planetleri gor
+3.Planet sec (planetin adini daxil ederek secilecek)
+0.Exit
+
+Planet secildikden sonra
+1.olke yarat
+2.olke gor
+4.Evvelki menuya qayit.
+0.Exit
