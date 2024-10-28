@@ -1,0 +1,14 @@
+C:\Users\I Novbe\source\repos\Galaxy\Galaxy\bin\Debug\net8.0\Galaxy.exe
+C:\Users\I Novbe\source\repos\Galaxy\Galaxy\bin\Debug\net8.0\Galaxy.deps.json
+C:\Users\I Novbe\source\repos\Galaxy\Galaxy\bin\Debug\net8.0\Galaxy.runtimeconfig.json
+C:\Users\I Novbe\source\repos\Galaxy\Galaxy\bin\Debug\net8.0\Galaxy.dll
+C:\Users\I Novbe\source\repos\Galaxy\Galaxy\bin\Debug\net8.0\Galaxy.pdb
+C:\Users\I Novbe\source\repos\Galaxy\Galaxy\obj\Debug\net8.0\Galaxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\source\repos\Galaxy\Galaxy\obj\Debug\net8.0\Galaxy.AssemblyInfoInputs.cache
+C:\Users\I Novbe\source\repos\Galaxy\Galaxy\obj\Debug\net8.0\Galaxy.AssemblyInfo.cs
+C:\Users\I Novbe\source\repos\Galaxy\Galaxy\obj\Debug\net8.0\Galaxy.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\source\repos\Galaxy\Galaxy\obj\Debug\net8.0\Galaxy.dll
+C:\Users\I Novbe\source\repos\Galaxy\Galaxy\obj\Debug\net8.0\refint\Galaxy.dll
+C:\Users\I Novbe\source\repos\Galaxy\Galaxy\obj\Debug\net8.0\Galaxy.pdb
+C:\Users\I Novbe\source\repos\Galaxy\Galaxy\obj\Debug\net8.0\Galaxy.genruntimeconfig.cache
+C:\Users\I Novbe\source\repos\Galaxy\Galaxy\obj\Debug\net8.0\ref\Galaxy.dll

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\Galaxy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C513-4C69-4314-A02A-596C5077CDEE}|Galaxy\\Galaxy.csproj|c:\\users\\i novbe\\source\\repos\\galaxy\\galaxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E108C513-4C69-4314-A02A-596C5077CDEE}|Galaxy\\Galaxy.csproj|solutionrelative:galaxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C513-4C69-4314-A02A-596C5077CDEE}|Galaxy\\Galaxy.csproj|c:\\users\\i novbe\\source\\repos\\galaxy\\galaxy\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E108C513-4C69-4314-A02A-596C5077CDEE}|Galaxy\\Galaxy.csproj|solutionrelative:galaxy\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C513-4C69-4314-A02A-596C5077CDEE}|Galaxy\\Galaxy.csproj|c:\\users\\i novbe\\source\\repos\\galaxy\\galaxy\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E108C513-4C69-4314-A02A-596C5077CDEE}|Galaxy\\Galaxy.csproj|solutionrelative:galaxy\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C513-4C69-4314-A02A-596C5077CDEE}|Galaxy\\Galaxy.csproj|c:\\users\\i novbe\\source\\repos\\galaxy\\galaxy\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E108C513-4C69-4314-A02A-596C5077CDEE}|Galaxy\\Galaxy.csproj|solutionrelative:galaxy\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C513-4C69-4314-A02A-596C5077CDEE}|Galaxy\\Galaxy.csproj|c:\\users\\i novbe\\source\\repos\\galaxy\\galaxy\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E108C513-4C69-4314-A02A-596C5077CDEE}|Galaxy\\Galaxy.csproj|solutionrelative:galaxy\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E108C513-4C69-4314-A02A-596C5077CDEE}|Galaxy\\Galaxy.csproj|c:\\users\\i novbe\\source\\repos\\galaxy\\galaxy\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E108C513-4C69-4314-A02A-596C5077CDEE}|Galaxy\\Galaxy.csproj|solutionrelative:galaxy\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Galaxy\\Galaxy\\Planet.cs",
+              "RelativeDocumentMoniker": "Galaxy\\Planet.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Galaxy\\Galaxy\\Planet.cs",
+              "RelativeToolTip": "Galaxy\\Planet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:51:42.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Galaxy\\Galaxy\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Galaxy\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Galaxy\\Galaxy\\AppDbContext.cs",
+              "RelativeToolTip": "Galaxy\\AppDbContext.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:51:06.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Galaxy\\Galaxy\\Region.cs",
+              "RelativeDocumentMoniker": "Galaxy\\Region.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Galaxy\\Galaxy\\Region.cs",
+              "RelativeToolTip": "Galaxy\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:45:02.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Galaxy\\Galaxy\\Country.cs",
+              "RelativeDocumentMoniker": "Galaxy\\Country.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Galaxy\\Galaxy\\Country.cs",
+              "RelativeToolTip": "Galaxy\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:44:43.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "World.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Galaxy\\Galaxy\\World.cs",
+              "RelativeDocumentMoniker": "Galaxy\\World.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Galaxy\\Galaxy\\World.cs",
+              "RelativeToolTip": "Galaxy\\World.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:44:32.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Galaxy\\Galaxy\\Program.cs",
+              "RelativeDocumentMoniker": "Galaxy\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Galaxy\\Galaxy\\Program.cs",
+              "RelativeToolTip": "Galaxy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:43:14.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
