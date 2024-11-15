@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meher\\source\\repos\\ADOClassTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5A4367-3EFC-4D90-906C-3C19D5F1F1EC}|ADOClassTask\\ADOClassTask.csproj|c:\\users\\meher\\source\\repos\\adoclasstask\\adoclasstask\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5A4367-3EFC-4D90-906C-3C19D5F1F1EC}|ADOClassTask\\ADOClassTask.csproj|solutionrelative:adoclasstask\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5A4367-3EFC-4D90-906C-3C19D5F1F1EC}|ADOClassTask\\ADOClassTask.csproj|c:\\users\\meher\\source\\repos\\adoclasstask\\adoclasstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5A4367-3EFC-4D90-906C-3C19D5F1F1EC}|ADOClassTask\\ADOClassTask.csproj|solutionrelative:adoclasstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5A4367-3EFC-4D90-906C-3C19D5F1F1EC}|ADOClassTask\\ADOClassTask.csproj|c:\\users\\meher\\source\\repos\\adoclasstask\\adoclasstask\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5A4367-3EFC-4D90-906C-3C19D5F1F1EC}|ADOClassTask\\ADOClassTask.csproj|solutionrelative:adoclasstask\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5A4367-3EFC-4D90-906C-3C19D5F1F1EC}|ADOClassTask\\ADOClassTask.csproj|c:\\users\\meher\\source\\repos\\adoclasstask\\adoclasstask\\services\\abstractions\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5A4367-3EFC-4D90-906C-3C19D5F1F1EC}|ADOClassTask\\ADOClassTask.csproj|solutionrelative:adoclasstask\\services\\abstractions\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5A4367-3EFC-4D90-906C-3C19D5F1F1EC}|ADOClassTask\\ADOClassTask.csproj|c:\\users\\meher\\source\\repos\\adoclasstask\\adoclasstask\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5A4367-3EFC-4D90-906C-3C19D5F1F1EC}|ADOClassTask\\ADOClassTask.csproj|solutionrelative:adoclasstask\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\ADOClassTask\\ADOClassTask\\Services\\Abstractions\\IStudentService.cs",
+              "RelativeDocumentMoniker": "ADOClassTask\\Services\\Abstractions\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\ADOClassTask\\ADOClassTask\\Services\\Abstractions\\IStudentService.cs",
+              "RelativeToolTip": "ADOClassTask\\Services\\Abstractions\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:45:24.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\ADOClassTask\\ADOClassTask\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "ADOClassTask\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\ADOClassTask\\ADOClassTask\\Services\\StudentService.cs",
+              "RelativeToolTip": "ADOClassTask\\Services\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:43:07.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\ADOClassTask\\ADOClassTask\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ADOClassTask\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\ADOClassTask\\ADOClassTask\\Models\\Student.cs",
+              "RelativeToolTip": "ADOClassTask\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:41:23.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\ADOClassTask\\ADOClassTask\\Context\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "ADOClassTask\\Context\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\ADOClassTask\\ADOClassTask\\Context\\AppDBContext.cs",
+              "RelativeToolTip": "ADOClassTask\\Context\\AppDBContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwCMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:29:23.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\ADOClassTask\\ADOClassTask\\Program.cs",
+              "RelativeDocumentMoniker": "ADOClassTask\\Program.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\ADOClassTask\\ADOClassTask\\Program.cs",
+              "RelativeToolTip": "ADOClassTask\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwBkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:28:18.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
