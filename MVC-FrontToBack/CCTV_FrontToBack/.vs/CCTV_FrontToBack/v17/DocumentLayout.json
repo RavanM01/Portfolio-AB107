@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meher\\source\\repos\\CCTV_FrontToBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40E9EAAC-E04D-4BEC-A230-843D50603452}|CCTV_FrontToBack\\CCTV_FrontToBack.csproj|c:\\users\\meher\\source\\repos\\cctv_fronttoback\\cctv_fronttoback\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40E9EAAC-E04D-4BEC-A230-843D50603452}|CCTV_FrontToBack\\CCTV_FrontToBack.csproj|solutionrelative:cctv_fronttoback\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E9EAAC-E04D-4BEC-A230-843D50603452}|CCTV_FrontToBack\\CCTV_FrontToBack.csproj|c:\\users\\meher\\source\\repos\\cctv_fronttoback\\cctv_fronttoback\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E9EAAC-E04D-4BEC-A230-843D50603452}|CCTV_FrontToBack\\CCTV_FrontToBack.csproj|solutionrelative:cctv_fronttoback\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E9EAAC-E04D-4BEC-A230-843D50603452}|CCTV_FrontToBack\\CCTV_FrontToBack.csproj|c:\\users\\meher\\source\\repos\\cctv_fronttoback\\cctv_fronttoback\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E9EAAC-E04D-4BEC-A230-843D50603452}|CCTV_FrontToBack\\CCTV_FrontToBack.csproj|solutionrelative:cctv_fronttoback\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E9EAAC-E04D-4BEC-A230-843D50603452}|CCTV_FrontToBack\\CCTV_FrontToBack.csproj|c:\\users\\meher\\source\\repos\\cctv_fronttoback\\cctv_fronttoback\\models\\emottest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E9EAAC-E04D-4BEC-A230-843D50603452}|CCTV_FrontToBack\\CCTV_FrontToBack.csproj|solutionrelative:cctv_fronttoback\\models\\emottest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E9EAAC-E04D-4BEC-A230-843D50603452}|CCTV_FrontToBack\\CCTV_FrontToBack.csproj|c:\\users\\meher\\source\\repos\\cctv_fronttoback\\cctv_fronttoback\\models\\teammembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E9EAAC-E04D-4BEC-A230-843D50603452}|CCTV_FrontToBack\\CCTV_FrontToBack.csproj|solutionrelative:cctv_fronttoback\\models\\teammembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E9EAAC-E04D-4BEC-A230-843D50603452}|CCTV_FrontToBack\\CCTV_FrontToBack.csproj|c:\\users\\meher\\source\\repos\\cctv_fronttoback\\cctv_fronttoback\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40E9EAAC-E04D-4BEC-A230-843D50603452}|CCTV_FrontToBack\\CCTV_FrontToBack.csproj|solutionrelative:cctv_fronttoback\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E9EAAC-E04D-4BEC-A230-843D50603452}|CCTV_FrontToBack\\CCTV_FrontToBack.csproj|c:\\users\\meher\\source\\repos\\cctv_fronttoback\\cctv_fronttoback\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40E9EAAC-E04D-4BEC-A230-843D50603452}|CCTV_FrontToBack\\CCTV_FrontToBack.csproj|solutionrelative:cctv_fronttoback\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E9EAAC-E04D-4BEC-A230-843D50603452}|CCTV_FrontToBack\\CCTV_FrontToBack.csproj|c:\\users\\meher\\source\\repos\\cctv_fronttoback\\cctv_fronttoback\\models\\slider_header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E9EAAC-E04D-4BEC-A230-843D50603452}|CCTV_FrontToBack\\CCTV_FrontToBack.csproj|solutionrelative:cctv_fronttoback\\models\\slider_header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E9EAAC-E04D-4BEC-A230-843D50603452}|CCTV_FrontToBack\\CCTV_FrontToBack.csproj|c:\\users\\meher\\source\\repos\\cctv_fronttoback\\cctv_fronttoback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E9EAAC-E04D-4BEC-A230-843D50603452}|CCTV_FrontToBack\\CCTV_FrontToBack.csproj|solutionrelative:cctv_fronttoback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E9EAAC-E04D-4BEC-A230-843D50603452}|CCTV_FrontToBack\\CCTV_FrontToBack.csproj|c:\\users\\meher\\source\\repos\\cctv_fronttoback\\cctv_fronttoback\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40E9EAAC-E04D-4BEC-A230-843D50603452}|CCTV_FrontToBack\\CCTV_FrontToBack.csproj|solutionrelative:cctv_fronttoback\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmotTest.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CCTV_FrontToBack\\CCTV_FrontToBack\\Models\\EmotTest.cs",
+              "RelativeDocumentMoniker": "CCTV_FrontToBack\\Models\\EmotTest.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CCTV_FrontToBack\\CCTV_FrontToBack\\Models\\EmotTest.cs",
+              "RelativeToolTip": "CCTV_FrontToBack\\Models\\EmotTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:28:58.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeVm.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CCTV_FrontToBack\\CCTV_FrontToBack\\ViewModels\\HomeVm.cs",
+              "RelativeDocumentMoniker": "CCTV_FrontToBack\\ViewModels\\HomeVm.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CCTV_FrontToBack\\CCTV_FrontToBack\\ViewModels\\HomeVm.cs",
+              "RelativeToolTip": "CCTV_FrontToBack\\ViewModels\\HomeVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:10:32.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeamMembers.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CCTV_FrontToBack\\CCTV_FrontToBack\\Models\\TeamMembers.cs",
+              "RelativeDocumentMoniker": "CCTV_FrontToBack\\Models\\TeamMembers.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CCTV_FrontToBack\\CCTV_FrontToBack\\Models\\TeamMembers.cs",
+              "RelativeToolTip": "CCTV_FrontToBack\\Models\\TeamMembers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:51:55.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CCTV_FrontToBack\\CCTV_FrontToBack\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CCTV_FrontToBack\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CCTV_FrontToBack\\CCTV_FrontToBack\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CCTV_FrontToBack\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAGsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:45:50.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Slider_Header.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CCTV_FrontToBack\\CCTV_FrontToBack\\Models\\Slider_Header.cs",
+              "RelativeDocumentMoniker": "CCTV_FrontToBack\\Models\\Slider_Header.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CCTV_FrontToBack\\CCTV_FrontToBack\\Models\\Slider_Header.cs",
+              "RelativeToolTip": "CCTV_FrontToBack\\Models\\Slider_Header.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:19:17.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CCTV_FrontToBack\\CCTV_FrontToBack\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CCTV_FrontToBack\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CCTV_FrontToBack\\CCTV_FrontToBack\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CCTV_FrontToBack\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T01:17:32.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CCTV_FrontToBack\\CCTV_FrontToBack\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CCTV_FrontToBack\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CCTV_FrontToBack\\CCTV_FrontToBack\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CCTV_FrontToBack\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAHUAAAAA3E9S8D//v5AAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T00:48:02.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CCTV_FrontToBack\\CCTV_FrontToBack\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CCTV_FrontToBack\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CCTV_FrontToBack\\CCTV_FrontToBack\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CCTV_FrontToBack\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB0BAAAAAAAAAAAiwCwBAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T00:47:07.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CCTV_FrontToBack\\CCTV_FrontToBack\\Program.cs",
+              "RelativeDocumentMoniker": "CCTV_FrontToBack\\Program.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CCTV_FrontToBack\\CCTV_FrontToBack\\Program.cs",
+              "RelativeToolTip": "CCTV_FrontToBack\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:49:39.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CCTV_FrontToBack\\CCTV_FrontToBack\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CCTV_FrontToBack\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CCTV_FrontToBack\\CCTV_FrontToBack\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CCTV_FrontToBack\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T00:48:25.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
