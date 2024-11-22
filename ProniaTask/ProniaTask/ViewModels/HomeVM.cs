@@ -6,5 +6,6 @@ namespace ProniaTask.ViewModels
     {
        public List<Slider> Sliders { get; set; }
         public List<Product> Products { get; set; }
+        public Product Product { get; set; }
     }
 }

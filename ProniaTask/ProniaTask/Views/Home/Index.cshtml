@@ -1,5 +1,6 @@
 ﻿@model HomeVM
 
+
  <!-- Begin Slider Area -->
       <div class="slider-area">
         <!-- Main Slider -->
@@ -1508,21 +1509,21 @@
                                      <div class="col-xl-3 col-md-4 col-sm-6">
                           <div class="product-item">
                             <div class="product-img">
-                              <a href="shop.html">
+                              <a asp-controller="Home" asp-action="Detail" asp-route-id=@item.Id>
                                   @if(item.ProductImages.FirstOrDefault(x=>x.Primary)!=null)
                                   {
                                 <img
                                   class="primary-img"
-                                  src="~/assets/images/website-images//@item.ProductImages.FirstOrDefault(x=>x.Primary).ImgUrl"
+                                  src="~/assets/images/website-images//@item.ProductImages.FirstOrDefault(x=>x.Primary==true).ImgUrl"
                                   alt="Product Images"
                                 />
 
                                   }
-                                  @if(item.ProductImages.FirstOrDefault(x=>x.Primary==false)!=null)
+                                  @if(item.ProductImages.FirstOrDefault(x=>x.Primary==false) is not null)
                                   {
                                 <img
                                   class="secondary-img"
-                                  src="~/assets/images/website-images//@item.ProductImages.FirstOrDefault(p=>p.Primary).ImgUrl"
+                                  src="~/assets/images/website-images//@item.ProductImages.FirstOrDefault(p=>p.Primary==false).ImgUrl"
                                   alt="Product Images"
                                 />
 

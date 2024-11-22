@@ -169,3 +169,18 @@ end
 
 select dbo.GetBlogCountbyUserId('2')
 
+ALTER TABLE Blogs
+ADD isDeleted BIT DEFAULT 0;
+
+
+CREATE TRIGGER TR_BlogDelete
+ON Blogs
+INSTEAD OF DELETE
+AS
+BEGIN
+    UPDATE Blogs
+    SET isDeleted = 1
+    WHERE Id IN (SELECT Id FROM DELETED);
+END;
+
+DELETE FROM Blogs WHERE Id = 2;

@@ -25,5 +25,28 @@ namespace ProniaTask.Controllers
             };
             return View(vm);
         }
+
+        public async Task<IActionResult> Detail(int? id)
+        {
+            if(id== null)
+            {
+                return NotFound();
+            }
+            var product =await dbContext.Products.Include(x=>x.Category)
+                .Include(x => x.ProductImages)
+                .Include(x => x.TagProducts)
+                .ThenInclude(x => x.Tag)
+                .FirstOrDefaultAsync(p=>p.Id==id);
+
+            List<Product> products = dbContext.Products.Include(p => p.ProductImages).ToList();
+           
+            HomeVM vm = new HomeVM()
+            {
+                Product = product,
+                Products = products,
+            };
+
+            return View(vm);
+        }
     }
 }
