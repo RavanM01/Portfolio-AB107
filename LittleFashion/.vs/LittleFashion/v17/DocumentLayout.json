@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meher\\source\\repos\\LittleFashion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|c:\\users\\meher\\source\\repos\\littlefashion\\littlefashion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|solutionrelative:littlefashion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|c:\\users\\meher\\source\\repos\\littlefashion\\littlefashion\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|solutionrelative:littlefashion\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|c:\\users\\meher\\source\\repos\\littlefashion\\littlefashion\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|solutionrelative:littlefashion\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|c:\\users\\meher\\source\\repos\\littlefashion\\littlefashion\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|solutionrelative:littlefashion\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|c:\\users\\meher\\source\\repos\\littlefashion\\littlefashion\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|solutionrelative:littlefashion\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|c:\\users\\meher\\source\\repos\\littlefashion\\littlefashion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|solutionrelative:littlefashion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|c:\\users\\meher\\source\\repos\\littlefashion\\littlefashion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|solutionrelative:littlefashion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|c:\\users\\meher\\source\\repos\\littlefashion\\littlefashion\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|solutionrelative:littlefashion\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|c:\\users\\meher\\source\\repos\\littlefashion\\littlefashion\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|solutionrelative:littlefashion\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|c:\\users\\meher\\source\\repos\\littlefashion\\littlefashion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|solutionrelative:littlefashion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|c:\\users\\meher\\source\\repos\\littlefashion\\littlefashion\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|solutionrelative:littlefashion\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|c:\\users\\meher\\source\\repos\\littlefashion\\littlefashion\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|solutionrelative:littlefashion\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|c:\\users\\meher\\source\\repos\\littlefashion\\littlefashion\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E4CFDA-D6B6-47D0-BD4F-3C9A18012435}|LittleFashion\\LittleFashion.csproj|solutionrelative:littlefashion\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "LittleFashion\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "LittleFashion\\ViewModels\\HomeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:21:31.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "LittleFashion\\Views\\Home\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "LittleFashion\\Views\\Home\\Detail.cshtml",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAAG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T17:48:49.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\DAL\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "LittleFashion\\DAL\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\DAL\\AppDBContext.cs",
+              "RelativeToolTip": "LittleFashion\\DAL\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:44:14.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\Program.cs",
+              "RelativeDocumentMoniker": "LittleFashion\\Program.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\Program.cs",
+              "RelativeToolTip": "LittleFashion\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:21:37.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LittleFashion\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LittleFashion\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAAAPEAAACZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T15:30:40.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LittleFashion\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LittleFashion\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T16:17:49.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LittleFashion\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LittleFashion\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwB4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:29:59.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "LittleFashion\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\Models\\Product.cs",
+              "RelativeToolTip": "LittleFashion\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:25:24.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "LittleFashion\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\Models\\Category.cs",
+              "RelativeToolTip": "LittleFashion\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:52:01.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LittleFashion\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LittleFashion\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T16:15:52.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\appsettings.json",
+              "RelativeDocumentMoniker": "LittleFashion\\appsettings.json",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\appsettings.json",
+              "RelativeToolTip": "LittleFashion\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T16:16:46.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "LittleFashion\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "LittleFashion\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:52:54.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LittleFashion\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LittleFashion\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T16:18:12.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

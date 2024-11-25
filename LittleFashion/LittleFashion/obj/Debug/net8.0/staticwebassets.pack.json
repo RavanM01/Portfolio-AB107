@@ -1,0 +1,145 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\css\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\css\\tooplate-little-fashion.css",
+      "PackagePath": "staticwebassets\\css\\tooplate-little-fashion.css"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\images\\header\\businesspeople-meeting-office-working.jpg",
+      "PackagePath": "staticwebassets\\images\\header\\businesspeople-meeting-office-working.jpg"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\images\\header\\positive-european-woman-has-break-after-work.jpg",
+      "PackagePath": "staticwebassets\\images\\header\\positive-european-woman-has-break-after-work.jpg"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
+      "PackagePath": "staticwebassets\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\images\\people\\portrait-british-woman.jpeg",
+      "PackagePath": "staticwebassets\\images\\people\\portrait-british-woman.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "PackagePath": "staticwebassets\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "PackagePath": "staticwebassets\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg",
+      "PackagePath": "staticwebassets\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\images\\slideshow\\medium-shot-business-women-high-five.jpeg",
+      "PackagePath": "staticwebassets\\images\\slideshow\\medium-shot-business-women-high-five.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg",
+      "PackagePath": "staticwebassets\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg",
+      "PackagePath": "staticwebassets\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\js\\Headroom.js",
+      "PackagePath": "staticwebassets\\js\\Headroom.js"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\js\\jQuery.headroom.js",
+      "PackagePath": "staticwebassets\\js\\jQuery.headroom.js"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\meher\\source\\repos\\LittleFashion\\LittleFashion\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LittleFashion.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LittleFashion.props",
+      "PackagePath": "build\\LittleFashion.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LittleFashion.props",
+      "PackagePath": "buildMultiTargeting\\LittleFashion.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LittleFashion.props",
+      "PackagePath": "buildTransitive\\LittleFashion.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
