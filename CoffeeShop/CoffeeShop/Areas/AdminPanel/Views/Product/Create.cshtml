@@ -1,0 +1,19 @@
+﻿@model Product
+<div class="container">
+<form method="post">
+  <div class="form-group">
+    <label asp-for="Name">Name</label>
+    <input class="form-control" asp-for="Name" placeholder="Enter Name">
+    <label asp-for="Description">Description</label>
+    <input class="form-control" asp-for="Description" placeholder="Enter Description">
+    <label asp-for="Price">Price</label>
+    <input class="form-control" asp-for="Price" placeholder="Enter Price">
+    <label asp-for="imgUrl">Img Url</label>
+    <input class="form-control" asp-for="imgUrl" placeholder="Enter Img Url">
+    <label asp-for="CategoryId">Category ID</label>
+    <input class="form-control" asp-for="CategoryId" placeholder="Enter CategoryId">
+
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+</div>
