@@ -14,7 +14,13 @@ namespace ProniaTask
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("Mssql"));
             });
             var app = builder.Build();
-               
+            
+            
+            app.MapControllerRoute(
+            name: "areas",
+            pattern: "{area:exists}/{controller=Manage}/{action=Index}"
+          );
+
             app.MapControllerRoute(
                 name: "default",
                 pattern:"{controller=Home}/{action=Index}/{id?}"
