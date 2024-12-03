@@ -1,0 +1,533 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meher\\source\\repos\\Riode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\areas\\dashboard\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\areas\\dashboard\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\models\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\models\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\areas\\dashboard\\viewmodels\\product\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\areas\\dashboard\\viewmodels\\product\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\areas\\dashboard\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\areas\\dashboard\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\areas\\dashboard\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\areas\\dashboard\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Migrations\\20241203205707_Alltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Riode\\Migrations\\20241203205707_Alltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\helpers\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\helpers\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\areas\\dashboard\\controllers\\panelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\areas\\dashboard\\controllers\\panelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\areas\\dashboard\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\areas\\dashboard\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\areas\\dashboard\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\areas\\dashboard\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\areas\\dashboard\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\areas\\dashboard\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Migrations\\20241203193146_updateTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Riode\\Migrations\\20241203193146_updateTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\migrations\\20241203173424_addimagetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\migrations\\20241203173424_addimagetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\areas\\dashboard\\views\\brand\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\areas\\dashboard\\views\\brand\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\areas\\dashboard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\areas\\dashboard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\areas\\dashboard\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\areas\\dashboard\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\areas\\dashboard\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\areas\\dashboard\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\areas\\dashboard\\views\\panel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\areas\\dashboard\\views\\panel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\migrations\\20241203160154_addalltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\migrations\\20241203160154_addalltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|c:\\users\\meher\\source\\repos\\riode\\riode\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F541D044-9D65-4D4D-B4A0-F93CB6159B24}|Riode\\Riode.csproj|solutionrelative:riode\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProductVm.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\ViewModels\\Product\\CreateProductVm.cs",
+              "RelativeDocumentMoniker": "Riode\\Areas\\Dashboard\\ViewModels\\Product\\CreateProductVm.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\ViewModels\\Product\\CreateProductVm.cs",
+              "RelativeToolTip": "Riode\\Areas\\Dashboard\\ViewModels\\Product\\CreateProductVm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:35:27.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Riode\\Areas\\Dashboard\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Riode\\Areas\\Dashboard\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T19:33:32.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Riode\\Areas\\Dashboard\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "Riode\\Areas\\Dashboard\\Controllers\\ProductController.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAjwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:11:16.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Riode\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Models\\Product.cs",
+              "RelativeToolTip": "Riode\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:49:39.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Program.cs",
+              "RelativeDocumentMoniker": "Riode\\Program.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Program.cs",
+              "RelativeToolTip": "Riode\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:09:40.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\appsettings.json",
+              "RelativeDocumentMoniker": "Riode\\appsettings.json",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\appsettings.json",
+              "RelativeToolTip": "Riode\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T15:12:42.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Riode\\Areas\\Dashboard\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Riode\\Areas\\Dashboard\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T17:16:14.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductImages.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Models\\ProductImages.cs",
+              "RelativeDocumentMoniker": "Riode\\Models\\ProductImages.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Models\\ProductImages.cs*",
+              "RelativeToolTip": "Riode\\Models\\ProductImages.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:25:11.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileExtension.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Helpers\\Extensions\\FileExtension.cs",
+              "RelativeDocumentMoniker": "Riode\\Helpers\\Extensions\\FileExtension.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Helpers\\Extensions\\FileExtension.cs",
+              "RelativeToolTip": "Riode\\Helpers\\Extensions\\FileExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:26:12.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241203205707_Alltables.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Migrations\\20241203205707_Alltables.cs",
+              "RelativeDocumentMoniker": "Riode\\Migrations\\20241203205707_Alltables.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Migrations\\20241203205707_Alltables.cs",
+              "RelativeToolTip": "Riode\\Migrations\\20241203205707_Alltables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:57:07.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PanelController.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Controllers\\PanelController.cs",
+              "RelativeDocumentMoniker": "Riode\\Areas\\Dashboard\\Controllers\\PanelController.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Controllers\\PanelController.cs",
+              "RelativeToolTip": "Riode\\Areas\\Dashboard\\Controllers\\PanelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:16:55.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Riode\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Riode\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T15:22:03.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Views\\Brand\\Create.cshtml",
+              "RelativeDocumentMoniker": "Riode\\Areas\\Dashboard\\Views\\Brand\\Create.cshtml",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Views\\Brand\\Create.cshtml",
+              "RelativeToolTip": "Riode\\Areas\\Dashboard\\Views\\Brand\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T16:21:53.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Riode\\Areas\\Dashboard\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Riode\\Areas\\Dashboard\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:13:33.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241203193146_updateTables.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Migrations\\20241203193146_updateTables.cs",
+              "RelativeDocumentMoniker": "Riode\\Migrations\\20241203193146_updateTables.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Migrations\\20241203193146_updateTables.cs",
+              "RelativeToolTip": "Riode\\Migrations\\20241203193146_updateTables.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:31:46.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241203173424_AddImageTables.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Migrations\\20241203173424_AddImageTables.cs",
+              "RelativeDocumentMoniker": "Riode\\Migrations\\20241203173424_AddImageTables.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Migrations\\20241203173424_AddImageTables.cs",
+              "RelativeToolTip": "Riode\\Migrations\\20241203173424_AddImageTables.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:34:25.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\DAL\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Riode\\DAL\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\DAL\\AppDBContext.cs",
+              "RelativeToolTip": "Riode\\DAL\\AppDBContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:11:14.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Views\\Brand\\Update.cshtml",
+              "RelativeDocumentMoniker": "Riode\\Areas\\Dashboard\\Views\\Brand\\Update.cshtml",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Views\\Brand\\Update.cshtml",
+              "RelativeToolTip": "Riode\\Areas\\Dashboard\\Views\\Brand\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T16:32:01.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Views\\Panel\\Index.cshtml",
+              "RelativeDocumentMoniker": "Riode\\Areas\\Dashboard\\Views\\Panel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Views\\Panel\\Index.cshtml",
+              "RelativeToolTip": "Riode\\Areas\\Dashboard\\Views\\Panel\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T15:17:11.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "Riode\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Models\\Slider.cs",
+              "RelativeToolTip": "Riode\\Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:43:57.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Riode\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Riode\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T15:17:44.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Riode\\Areas\\Dashboard\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Riode\\Areas\\Dashboard\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T15:21:52.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "Riode\\Areas\\Dashboard\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Areas\\Dashboard\\Views\\Brand\\Index.cshtml",
+              "RelativeToolTip": "Riode\\Areas\\Dashboard\\Views\\Brand\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T16:13:45.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241203160154_AddAllTables.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Migrations\\20241203160154_AddAllTables.cs",
+              "RelativeDocumentMoniker": "Riode\\Migrations\\20241203160154_AddAllTables.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Migrations\\20241203160154_AddAllTables.cs",
+              "RelativeToolTip": "Riode\\Migrations\\20241203160154_AddAllTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:01:55.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Riode\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Riode\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-03T15:09:22.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Riode\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Models\\Brand.cs",
+              "RelativeToolTip": "Riode\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:53:45.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Riode\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Riode\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:44:12.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Riode\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Riode\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T14:32:00.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Riode\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Riode\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAACQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T14:29:48.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Riode\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Riode\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAIUDAAAAAAAAAADwv50DAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T14:29:41.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Riode\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Riode\\Riode\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Riode\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:29:25.01Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
