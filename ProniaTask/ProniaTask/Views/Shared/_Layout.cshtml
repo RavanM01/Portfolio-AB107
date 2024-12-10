@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNetCore.Identity
+<!DOCTYPE html>
 <html lang="zxx">
   <head>
     <meta charset="UTF-8" />
@@ -147,16 +148,24 @@
                           class="dropdown-menu"
                           aria-labelledby="settingButton"
                         >
+                        @if(User.Identity.IsAuthenticated){
+
                           <li>
-                            <a class="dropdown-item" href="my-account.html"
-                              >My account</a
-                            >
+						    <a class="dropdown-item" asp-action="MyAccount" asp-controller="Account">@User.Identity.Name</a>
                           </li>
                           <li>
-                            <a class="dropdown-item" href="login-register.html"
-                              >Login | Register</a
-                            >
+                            <a class="dropdown-item"asp-action="LogOut" asp-controller="Account">Log Out</a>
                           </li>
+
+                        }
+                        else{
+                          <li>
+                            <a class="dropdown-item" asp-action="Register" asp-controller="Account">Register</a>
+                          </li>
+                          <li>
+                            <a class="dropdown-item" asp-action="Login" asp-controller="Account">Login</a>
+                          </li>
+                        }
                         </ul>
                       </li>
                       <li class="d-none d-lg-block">

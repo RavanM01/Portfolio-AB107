@@ -24792,6 +24792,30 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HJwGIuPrBWV46kqOEEiPUGFXOWU42m87U0p/w6HIgeQ="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"138278"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HJwGIuPrBWV46kqOEEiPUGFXOWU42m87U0p/w6HIgeQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Dec 2024 17:13:55 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaTask/Upload/product/11a565d0-5e2b-4693-b27d-89010ded59ebWhatsApp Image 2024-11-21 at 05.59.24.chmv31rtzu.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\product\11a565d0-5e2b-4693-b27d-89010ded59ebWhatsApp Image 2024-11-21 at 05.59.24.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"chmv31rtzu"},{"Name":"integrity","Value":"sha256-cAUzxWSSqHiS1PaUxpZynrkftkzhzmsC0H4TNKjiOvc="},{"Name":"label","Value":"_content/ProniaTask/Upload/product/11a565d0-5e2b-4693-b27d-89010ded59ebWhatsApp Image 2024-11-21 at 05.59.24.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11454"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cAUzxWSSqHiS1PaUxpZynrkftkzhzmsC0H4TNKjiOvc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Dec 2024 21:55:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaTask/Upload/product/11a565d0-5e2b-4693-b27d-89010ded59ebWhatsApp Image 2024-11-21 at 05.59.24.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\product\11a565d0-5e2b-4693-b27d-89010ded59ebWhatsApp Image 2024-11-21 at 05.59.24.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cAUzxWSSqHiS1PaUxpZynrkftkzhzmsC0H4TNKjiOvc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11454"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cAUzxWSSqHiS1PaUxpZynrkftkzhzmsC0H4TNKjiOvc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Dec 2024 21:55:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaTask/Upload/product/1e1157b8-aae7-430a-b83e-a4389a749a88WhatsApp Image 2024-11-21 at 06.01.32.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\product\1e1157b8-aae7-430a-b83e-a4389a749a88WhatsApp Image 2024-11-21 at 06.01.32.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-u6tA6L0Jz9AavprXf2SWHb03K1D20\u002BFzHP/CiBqp1u4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"60272"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022u6tA6L0Jz9AavprXf2SWHb03K1D20\u002BFzHP/CiBqp1u4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Dec 2024 21:55:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProniaTask/Upload/product/1e1157b8-aae7-430a-b83e-a4389a749a88WhatsApp Image 2024-11-21 at 06.01.32.rw6b0pb87g.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\product\1e1157b8-aae7-430a-b83e-a4389a749a88WhatsApp Image 2024-11-21 at 06.01.32.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rw6b0pb87g"},{"Name":"integrity","Value":"sha256-u6tA6L0Jz9AavprXf2SWHb03K1D20\u002BFzHP/CiBqp1u4="},{"Name":"label","Value":"_content/ProniaTask/Upload/product/1e1157b8-aae7-430a-b83e-a4389a749a88WhatsApp Image 2024-11-21 at 06.01.32.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"60272"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022u6tA6L0Jz9AavprXf2SWHb03K1D20\u002BFzHP/CiBqp1u4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Dec 2024 21:55:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ProniaTask/Upload/product/25322b90-40c7-4b68-b1ea-431286d67632WhatsApp Image 2024-11-21 at 05.56.57.jpeg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\product\25322b90-40c7-4b68-b1ea-431286d67632WhatsApp Image 2024-11-21 at 05.56.57.jpeg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -24971,18 +24995,6 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rw6b0pb87g"},{"Name":"integrity","Value":"sha256-u6tA6L0Jz9AavprXf2SWHb03K1D20\u002BFzHP/CiBqp1u4="},{"Name":"label","Value":"_content/ProniaTask/Upload/product/f23b202b-1994-49bd-8fb6-91d31bc36ec7WhatsApp Image 2024-11-21 at 06.01.32.jpeg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"60272"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022u6tA6L0Jz9AavprXf2SWHb03K1D20\u002BFzHP/CiBqp1u4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 12:44:42 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ProniaTask/Upload/product/f425e19f-9fa5-4920-bab7-62d7ef4563e1WhatsApp Image 2024-11-21 at 05.58.39.ginm72jpjh.jpeg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\product\f425e19f-9fa5-4920-bab7-62d7ef4563e1WhatsApp Image 2024-11-21 at 05.58.39.jpeg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ginm72jpjh"},{"Name":"integrity","Value":"sha256-eMBd6G4FWOfAoUDhe\u002B7yZk0sJua2tPZw8rjCG63uqhg="},{"Name":"label","Value":"_content/ProniaTask/Upload/product/f425e19f-9fa5-4920-bab7-62d7ef4563e1WhatsApp Image 2024-11-21 at 05.58.39.jpeg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"208890"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022eMBd6G4FWOfAoUDhe\u002B7yZk0sJua2tPZw8rjCG63uqhg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 12:44:42 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ProniaTask/Upload/product/f425e19f-9fa5-4920-bab7-62d7ef4563e1WhatsApp Image 2024-11-21 at 05.58.39.jpeg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\product\f425e19f-9fa5-4920-bab7-62d7ef4563e1WhatsApp Image 2024-11-21 at 05.58.39.jpeg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eMBd6G4FWOfAoUDhe\u002B7yZk0sJua2tPZw8rjCG63uqhg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"208890"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022eMBd6G4FWOfAoUDhe\u002B7yZk0sJua2tPZw8rjCG63uqhg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 12:44:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ProniaTask/Upload/product/f51b4d21-9c32-4e77-b3e7-a9dd22dab086WhatsApp Image 2024-05-18 at 21.47.20.flwkth7qm9.jpeg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\product\f51b4d21-9c32-4e77-b3e7-a9dd22dab086WhatsApp Image 2024-05-18 at 21.47.20.jpeg'))</AssetFile>

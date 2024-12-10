@@ -245,7 +245,7 @@ namespace ProniaTask.Areas.Manage.Controllers
                 var removeImgs=new List<ProductImage>();
                 foreach(var imgUrl in oldProduct.ProductImages.Where(x=>!x.Primary))
                 {
-                    if (vm.ImagesUrls.Any(x => x == imgUrl.ImgUrl))
+                    if (!vm.ImagesUrls.Any(x => x == imgUrl.ImgUrl))
                     {
                         FileExtension.DeleteFile(env.WebRootPath,"Upload/product",imgUrl.ImgUrl);
                         dbContext.ProductImages.Remove(imgUrl);
