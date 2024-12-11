@@ -2065,6 +2065,7 @@ wwwroot\manage\vendor\jquery-easing\jquery.easing.js
 wwwroot\manage\vendor\jquery-easing\jquery.easing.min.js
 wwwroot\Upload\product\05c66900-cc8f-46f3-8adc-55db6460033bWhatsApp Image 2024-09-20 at 19.40.30.jpeg
 wwwroot\Upload\product\11a565d0-5e2b-4693-b27d-89010ded59ebWhatsApp Image 2024-11-21 at 05.59.24.jpeg
+wwwroot\Upload\product\16c39385-4a96-45fd-818f-eac2af8933c9WhatsApp Image 2024-11-21 at 05.56.57.jpeg
 wwwroot\Upload\product\1e1157b8-aae7-430a-b83e-a4389a749a88WhatsApp Image 2024-11-21 at 06.01.32.jpeg
 wwwroot\Upload\product\25322b90-40c7-4b68-b1ea-431286d67632WhatsApp Image 2024-11-21 at 05.56.57.jpeg
 wwwroot\Upload\product\255f4cc2-4d91-4fba-b940-c0344ac0e1afWhatsApp Image 2024-11-21 at 05.58.39.jpeg

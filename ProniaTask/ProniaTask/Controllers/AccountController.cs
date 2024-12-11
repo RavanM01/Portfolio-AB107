@@ -52,6 +52,7 @@ namespace ProniaTask.Controllers
 
             }
             string token =await _userManager.GenerateEmailConfirmationTokenAsync(user);
+
             string link = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, token = token }, HttpContext.Request.Scheme);
             await mailService.SendEmailAsync(new MailRequest()
             {
@@ -71,7 +72,7 @@ namespace ProniaTask.Controllers
 
             await _userManager.AddToRoleAsync(user, UserRoles.Member.ToString());
 
-            return RedirectToAction(nameof(ConfirmEmail), user);
+            return RedirectToAction(nameof(Login));
         }
         public async Task<IActionResult> LogOut()
         {
@@ -143,7 +144,7 @@ namespace ProniaTask.Controllers
             if (user == null) { return NotFound(); }
             string token = await _userManager.GeneratePasswordResetTokenAsync(user);
 
-            string link = Url.Action("ResetPassword", "Account", new { userId = user.Id, token = token },HttpContext.Request.Scheme );
+            string link = Url.Action("ResetPassword", "Account", new { userId = user.Id, token = token },Request.Scheme );
             await mailService.SendEmailAsync(new MailRequest()
             {
                 Subject="Reset Password",
@@ -168,11 +169,21 @@ namespace ProniaTask.Controllers
             return RedirectToAction("Login");
         }
 
-        public async Task<IActionResult> ConfirmEmail(AppUser appUser)
+        public async Task<IActionResult> ConfirmEmail(string userId,string token)
         {
-            AppUser user = await _userManager.FindByEmailAsync(appUser.Email);
+            if(userId==null || token == null)
+            {
+                return BadRequest();
+            }
+           
+            AppUser user = await _userManager.FindByIdAsync(userId);
+            if (user == null)
+            {
+                return NotFound();
+            }
             user.EmailConfirmed = true;
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
+
             return RedirectToAction(nameof(Login));
         }
     }
