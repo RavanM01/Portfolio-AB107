@@ -94,8 +94,7 @@
               "RelativeToolTip": "ProniaTask\\Controllers\\HomeController.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAgwDUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T21:21:48.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T21:21:48.558Z"
             },
             {
               "$type": "Document",
@@ -107,8 +106,7 @@
               "RelativeToolTip": "ProniaTask\\Views\\Home\\About.cshtml",
               "ViewState": "AgIAAKIBAAAAAAAAAAAmwLQBAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T21:02:36.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T21:02:36.526Z"
             },
             {
               "$type": "Document",
@@ -133,8 +131,7 @@
               "RelativeToolTip": "ProniaTask\\Areas\\Manage\\Views\\Setting\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T20:31:04.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T20:31:04.911Z"
             },
             {
               "$type": "Document",
@@ -146,8 +143,7 @@
               "RelativeToolTip": "ProniaTask\\Areas\\Manage\\Views\\Category\\Index.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T20:21:10.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T20:21:10.658Z"
             },
             {
               "$type": "Document",
@@ -159,8 +155,7 @@
               "RelativeToolTip": "ProniaTask\\Areas\\Manage\\Views\\Setting\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T20:18:59.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T20:18:59.959Z"
             },
             {
               "$type": "Document",
@@ -172,8 +167,7 @@
               "RelativeToolTip": "ProniaTask\\Areas\\Manage\\Views\\Setting\\Index.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T20:11:32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T20:11:32Z"
             },
             {
               "$type": "Document",
@@ -185,8 +179,7 @@
               "RelativeToolTip": "ProniaTask\\Areas\\Manage\\Controllers\\SettingController.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAiwDYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T18:57:38.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T18:57:38.868Z"
             },
             {
               "$type": "Document",
@@ -198,8 +191,7 @@
               "RelativeToolTip": "ProniaTask\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAMkAAAAAAAAAAAAiwEIBAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T18:31:01.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T18:31:01.091Z"
             },
             {
               "$type": "Document",
@@ -211,8 +203,7 @@
               "RelativeToolTip": "ProniaTask\\Services\\LayoutService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T18:28:16.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T18:28:16.158Z"
             },
             {
               "$type": "Document",
@@ -224,8 +215,7 @@
               "RelativeToolTip": "ProniaTask\\Migrations\\20241216182656_AddSettingTable.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T18:26:57.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T18:26:57.383Z"
             },
             {
               "$type": "Document",
@@ -237,8 +227,7 @@
               "RelativeToolTip": "ProniaTask\\DAL\\AppDBContext.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T18:25:54.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T18:25:54.645Z"
             },
             {
               "$type": "Document",
@@ -250,8 +239,7 @@
               "RelativeToolTip": "ProniaTask\\Models\\Setting.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T18:23:35.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T18:23:35.338Z"
             },
             {
               "$type": "Document",
@@ -263,8 +251,7 @@
               "RelativeToolTip": "ProniaTask\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T17:39:37.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T17:39:37.334Z"
             },
             {
               "$type": "Document",
@@ -288,8 +275,7 @@
               "RelativeToolTip": "ProniaTask\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAKMAAAAAAAAAAAAcwAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T11:43:03.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T11:43:03.009Z"
             },
             {
               "$type": "Document",
@@ -301,8 +287,7 @@
               "RelativeToolTip": "ProniaTask\\Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAzwB4AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T11:35:17.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T11:35:17.865Z"
             },
             {
               "$type": "Document",
