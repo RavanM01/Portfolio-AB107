@@ -48,5 +48,13 @@ namespace ProniaTask.Controllers
 
             return View(vm);
         }
+        public IActionResult About()
+        {
+            return View();
+        }
+        public IActionResult Contact()
+        {
+            return View();
+        }
     }
 }

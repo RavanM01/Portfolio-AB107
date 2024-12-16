@@ -51,14 +51,6 @@ namespace ProniaTask.Controllers
                 user.UserName = vm.Name + vm.Surname;
 
             }
-            string token =await _userManager.GenerateEmailConfirmationTokenAsync(user);
-            string link = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, token = token }, HttpContext.Request.Scheme);
-            await mailService.SendEmailAsync(new MailRequest()
-            {
-                Subject = "Confirm Email",
-                ToEmail = vm.Email,
-                Body = $"<p>{user.Name} Confirmliyin emaili </p><br><a href='{link}'>Confirm Email</a>"
-            });
             var result = await _userManager.CreateAsync(user, vm.Password);
             if (!result.Succeeded)
             {
@@ -68,10 +60,18 @@ namespace ProniaTask.Controllers
                 }
                 return View();
             }
+            string token = await _userManager.GenerateEmailConfirmationTokenAsync(user);
+            string link = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, token = token }, HttpContext.Request.Scheme);
+            await mailService.SendEmailAsync(new MailRequest()
+            {
+                Subject = "Confirm Email",
+                ToEmail = vm.Email,
+                Body = $"<p>{user.Name} Confirmliyin emaili </p><br><a href='{link}'>Confirm Email</a>"
+            });
 
             await _userManager.AddToRoleAsync(user, UserRoles.Member.ToString());
 
-            return RedirectToAction(nameof(ConfirmEmail), user);
+            return RedirectToAction(nameof(Login));
         }
         public async Task<IActionResult> LogOut()
         {
@@ -143,23 +143,23 @@ namespace ProniaTask.Controllers
             if (user == null) { return NotFound(); }
             string token = await _userManager.GeneratePasswordResetTokenAsync(user);
 
-            string link = Url.Action("ResetPassword", "Account", new { userId = user.Id, token = token },HttpContext.Request.Scheme );
+            string link = Url.Action("ResetPassword", "Account", new { userId = user.Id, token = token }, HttpContext.Request.Scheme);
             await mailService.SendEmailAsync(new MailRequest()
             {
-                Subject="Reset Password",
-                ToEmail=vm.Email,
-                Body=$"<p>{user.Name} Resetliyin kodu </p><br><a href='{ link }'>Reset Password</a>"
+                Subject = "Reset Password",
+                ToEmail = vm.Email,
+                Body = $"<p>{user.Name} Resetliyin kodu </p><br><a href='{link}'>Reset Password</a>"
             });
-            return RedirectToAction("Index","Home");
+            return RedirectToAction("Index", "Home");
         }
-        public async Task<IActionResult> ResetPassword(string userId,string token)
+        public async Task<IActionResult> ResetPassword(string userId, string token)
         {
             var user = await _userManager.FindByIdAsync(userId);
             if (user == null) { return NotFound(); }
             return View();
         }
         [HttpPost]
-        public async Task<IActionResult> ResetPassword(ResetPasswordVm vm,string userId, string token)
+        public async Task<IActionResult> ResetPassword(ResetPasswordVm vm, string userId, string token)
         {
             if (!ModelState.IsValid) { return View(); }
             var user = await _userManager.FindByIdAsync(userId);
@@ -167,13 +167,20 @@ namespace ProniaTask.Controllers
             var result = await _userManager.ResetPasswordAsync(user, token, vm.Password);
             return RedirectToAction("Login");
         }
-
-        public async Task<IActionResult> ConfirmEmail(AppUser appUser)
+        public async Task<IActionResult> ConfirmEmail(string userId, string token)
         {
-            AppUser user = await _userManager.FindByEmailAsync(appUser.Email);
-            user.EmailConfirmed = true;
-            _context.SaveChanges();
-            return RedirectToAction(nameof(Login));
+            if (userId == null || token == null)
+            {
+                return RedirectToAction("index", "home");
+            }
+            var user = await _userManager.FindByIdAsync(userId); 
+            if (user == null) { return NotFound(); };
+            var result=await _userManager.ConfirmEmailAsync(user, token);
+            if (result.Succeeded)
+            {
+                return View();
+            }
+            return BadRequest();
         }
     }
-}       
+}  

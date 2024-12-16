@@ -11,6 +11,7 @@ using MailService = ProniaTask.Services.MailService;
 
 namespace ProniaTask
 {
+    //slider update
     public class Program
     {
         public static void Main(string[] args)
@@ -26,6 +27,7 @@ namespace ProniaTask
                 opt.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(3);
                 opt.Lockout.MaxFailedAccessAttempts = 3;
             }).AddEntityFrameworkStores<AppDBContext>().AddDefaultTokenProviders();
+            builder.Services.AddScoped<LayoutService>();
             builder.Services.AddDbContext<AppDBContext>(opt =>
             {
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("Mssql"));
