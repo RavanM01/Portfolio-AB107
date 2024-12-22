@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|c:\\users\\meher\\source\\repos\\crud_one_to_many\\crud_one_to_many\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|solutionrelative:crud_one_to_many\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\Migrations\\20241222110800_UpdateRelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUD_One_To_Many\\Migrations\\20241222110800_UpdateRelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|c:\\users\\meher\\source\\repos\\crud_one_to_many\\crud_one_to_many\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|solutionrelative:crud_one_to_many\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|c:\\users\\meher\\source\\repos\\crud_one_to_many\\crud_one_to_many\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|solutionrelative:crud_one_to_many\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\Migrations\\20241222110613_UpdateRelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUD_One_To_Many\\Migrations\\20241222110613_UpdateRelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|c:\\users\\meher\\source\\repos\\crud_one_to_many\\crud_one_to_many\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|solutionrelative:crud_one_to_many\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|c:\\users\\meher\\source\\repos\\crud_one_to_many\\crud_one_to_many\\dtos\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|solutionrelative:crud_one_to_many\\dtos\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|c:\\users\\meher\\source\\repos\\crud_one_to_many\\crud_one_to_many\\helpers\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|solutionrelative:crud_one_to_many\\helpers\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|c:\\users\\meher\\source\\repos\\crud_one_to_many\\crud_one_to_many\\dal\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|solutionrelative:crud_one_to_many\\dal\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|c:\\users\\meher\\source\\repos\\crud_one_to_many\\crud_one_to_many\\dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|solutionrelative:crud_one_to_many\\dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|c:\\users\\meher\\source\\repos\\crud_one_to_many\\crud_one_to_many\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|solutionrelative:crud_one_to_many\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|c:\\users\\meher\\source\\repos\\crud_one_to_many\\crud_one_to_many\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|solutionrelative:crud_one_to_many\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|c:\\users\\meher\\source\\repos\\crud_one_to_many\\crud_one_to_many\\migrations\\20241222101839_updatetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431E2438-14F6-4788-B7A3-78D9AF267B6B}|CRUD_One_To_Many\\CRUD_One_To_Many.csproj|solutionrelative:crud_one_to_many\\migrations\\20241222101839_updatetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241222110800_UpdateRelation.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\Migrations\\20241222110800_UpdateRelation.cs",
+              "RelativeDocumentMoniker": "CRUD_One_To_Many\\Migrations\\20241222110800_UpdateRelation.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\Migrations\\20241222110800_UpdateRelation.cs",
+              "RelativeToolTip": "CRUD_One_To_Many\\Migrations\\20241222110800_UpdateRelation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T11:08:01.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241222110613_UpdateRelations.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\Migrations\\20241222110613_UpdateRelations.cs",
+              "RelativeDocumentMoniker": "CRUD_One_To_Many\\Migrations\\20241222110613_UpdateRelations.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\Migrations\\20241222110613_UpdateRelations.cs",
+              "RelativeToolTip": "CRUD_One_To_Many\\Migrations\\20241222110613_UpdateRelations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T11:06:13.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\DTOs\\Product\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "CRUD_One_To_Many\\DTOs\\Product\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\DTOs\\Product\\UpdateProductDto.cs",
+              "RelativeToolTip": "CRUD_One_To_Many\\DTOs\\Product\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T11:04:23.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CRUD_One_To_Many\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\Models\\Product.cs",
+              "RelativeToolTip": "CRUD_One_To_Many\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T11:02:32.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CRUD_One_To_Many\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\Models\\Category.cs",
+              "RelativeToolTip": "CRUD_One_To_Many\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T11:01:58.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CRUD_One_To_Many\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CRUD_One_To_Many\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA6wDAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:59:23.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\DAL\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "CRUD_One_To_Many\\DAL\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\DAL\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "CRUD_One_To_Many\\DAL\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:28:00.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\DAL\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "CRUD_One_To_Many\\DAL\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\DAL\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "CRUD_One_To_Many\\DAL\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:27:40.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUD_One_To_Many\\appsettings.json",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\appsettings.json",
+              "RelativeToolTip": "CRUD_One_To_Many\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T10:24:15.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241222101839_UpdateTables.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\Migrations\\20241222101839_UpdateTables.cs",
+              "RelativeDocumentMoniker": "CRUD_One_To_Many\\Migrations\\20241222101839_UpdateTables.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\Migrations\\20241222101839_UpdateTables.cs",
+              "RelativeToolTip": "CRUD_One_To_Many\\Migrations\\20241222101839_UpdateTables.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:18:39.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD_One_To_Many\\Program.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\Program.cs",
+              "RelativeToolTip": "CRUD_One_To_Many\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:18:13.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\Helpers\\Mapper\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "CRUD_One_To_Many\\Helpers\\Mapper\\AutoMapper.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\Helpers\\Mapper\\AutoMapper.cs",
+              "RelativeToolTip": "CRUD_One_To_Many\\Helpers\\Mapper\\AutoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:14:49.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CRUD_One_To_Many\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\CRUD_One_To_Many\\CRUD_One_To_Many\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CRUD_One_To_Many\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:54:02.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

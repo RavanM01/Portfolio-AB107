@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1LXvc895VWEFbevt+G+incIGQ0F1hQXAiPtnKqNgVlc=",
+  "Source": "CRUD_One_To_Many",
+  "BasePath": "_content/CRUD_One_To_Many",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
