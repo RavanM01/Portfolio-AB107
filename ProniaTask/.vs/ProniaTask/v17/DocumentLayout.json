@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\meher\\OneDrive\\Desktop\\CodeAca\\Portfolio-AB107\\ProniaTask\\",
   "Documents": [
     {
@@ -72,6 +73,24 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E418AE4-50B2-419C-B8F5-2CF7C2FB400A}|ProniaTask\\ProniaTask.csproj|c:\\users\\meher\\onedrive\\desktop\\codeaca\\portfolio-ab107\\proniatask\\proniatask\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\ProniaTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E418AE4-50B2-419C-B8F5-2CF7C2FB400A}|ProniaTask\\ProniaTask.csproj|c:\\users\\i novbe\\desktop\\portfolio-ab107\\proniatask\\proniatask\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E418AE4-50B2-419C-B8F5-2CF7C2FB400A}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E418AE4-50B2-419C-B8F5-2CF7C2FB400A}|ProniaTask\\ProniaTask.csproj|c:\\users\\i novbe\\desktop\\portfolio-ab107\\proniatask\\proniatask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E418AE4-50B2-419C-B8F5-2CF7C2FB400A}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E418AE4-50B2-419C-B8F5-2CF7C2FB400A}|ProniaTask\\ProniaTask.csproj|c:\\users\\i novbe\\desktop\\portfolio-ab107\\proniatask\\proniatask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E418AE4-50B2-419C-B8F5-2CF7C2FB400A}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E418AE4-50B2-419C-B8F5-2CF7C2FB400A}|ProniaTask\\ProniaTask.csproj|c:\\users\\i novbe\\desktop\\portfolio-ab107\\proniatask\\proniatask\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> c75303d350a72b26675aebf2440e05b5a7745bd7
       "RelativeMoniker": "D:0:0:{7E418AE4-50B2-419C-B8F5-2CF7C2FB400A}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -82,17 +101,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 2,
+=======
+          "SelectedChildIndex": 1,
+>>>>>>> c75303d350a72b26675aebf2440e05b5a7745bd7
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\CodeAca\\Portfolio-AB107\\ProniaTask\\ProniaTask\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ProniaTask\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\meher\\OneDrive\\Desktop\\CodeAca\\Portfolio-AB107\\ProniaTask\\ProniaTask\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ProniaTask\\Controllers\\HomeController.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAgwDUAAAAJAAAAAAAAAA==",
+=======
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\ProniaTask\\ProniaTask\\appsettings.json",
+              "RelativeDocumentMoniker": "ProniaTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\ProniaTask\\ProniaTask\\appsettings.json",
+              "RelativeToolTip": "ProniaTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T07:55:00.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\ProniaTask\\ProniaTask\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ProniaTask\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\ProniaTask\\ProniaTask\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ProniaTask\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwD4AAABDAAAAAAAAAA==",
+>>>>>>> c75303d350a72b26675aebf2440e05b5a7745bd7
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T21:21:48.558Z"
             },
@@ -123,6 +168,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 5,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\meher\\OneDrive\\Desktop\\CodeAca\\Portfolio-AB107\\ProniaTask\\ProniaTask\\Areas\\Manage\\Views\\Setting\\Update.cshtml",
@@ -299,6 +345,28 @@
               "RelativeToolTip": "ProniaTask\\Models\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+=======
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\ProniaTask\\ProniaTask\\Program.cs",
+              "RelativeDocumentMoniker": "ProniaTask\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\ProniaTask\\ProniaTask\\Program.cs",
+              "RelativeToolTip": "ProniaTask\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwBcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:35:17.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\ProniaTask\\ProniaTask\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "ProniaTask\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\ProniaTask\\ProniaTask\\Models\\AppUser.cs",
+              "RelativeToolTip": "ProniaTask\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+>>>>>>> c75303d350a72b26675aebf2440e05b5a7745bd7
               "WhenOpened": "2024-12-05T18:56:36.032Z"
             }
           ]

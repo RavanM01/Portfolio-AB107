@@ -1,0 +1,388 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meher\\source\\repos\\Architecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|c:\\users\\meher\\source\\repos\\architecture\\webapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|c:\\users\\meher\\source\\repos\\architecture\\webapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|c:\\users\\meher\\source\\repos\\architecture\\webapp.api\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\meher\\source\\repos\\architecture\\business\\services\\implementations\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\services\\implementations\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\meher\\source\\repos\\architecture\\business\\helpers\\exceptions\\model\\modelnullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\helpers\\exceptions\\model\\modelnullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\meher\\source\\repos\\architecture\\business\\helpers\\exceptions\\common\\negativeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\helpers\\exceptions\\common\\negativeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\meher\\source\\repos\\architecture\\business\\helpers\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\helpers\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\meher\\source\\repos\\architecture\\dal\\dalserviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\dalserviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\meher\\source\\repos\\architecture\\business\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\meher\\source\\repos\\architecture\\business\\services\\interfaces\\imodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\services\\interfaces\\imodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\meher\\source\\repos\\architecture\\business\\dtos\\model\\getallmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\dtos\\model\\getallmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\meher\\source\\repos\\architecture\\business\\dtos\\model\\getmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\dtos\\model\\getmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\meher\\source\\repos\\architecture\\dal\\repositories\\implementations\\modelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\implementations\\modelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\meher\\source\\repos\\architecture\\dal\\repositories\\interfaces\\imodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\imodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\meher\\source\\repos\\architecture\\dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\meher\\source\\repos\\architecture\\dal\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\meher\\source\\repos\\architecture\\dal\\context\\configurations\\modelconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\context\\configurations\\modelconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\meher\\source\\repos\\architecture\\dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|c:\\users\\meher\\source\\repos\\architecture\\core\\entities\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|solutionrelative:core\\entities\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|c:\\users\\meher\\source\\repos\\architecture\\core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|solutionrelative:core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|c:\\users\\meher\\source\\repos\\architecture\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\meher\\source\\repos\\architecture\\dal\\migrations\\20241223191908_addmodeltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20241223191908_addmodeltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModelNullException.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\Helpers\\Exceptions\\Model\\ModelNullException.cs",
+              "RelativeDocumentMoniker": "Business\\Helpers\\Exceptions\\Model\\ModelNullException.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\Helpers\\Exceptions\\Model\\ModelNullException.cs",
+              "RelativeToolTip": "Business\\Helpers\\Exceptions\\Model\\ModelNullException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:43:47.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DALServiceRegistrations.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\DAL\\DALServiceRegistrations.cs",
+              "RelativeDocumentMoniker": "DAL\\DALServiceRegistrations.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\DAL\\DALServiceRegistrations.cs",
+              "RelativeToolTip": "DAL\\DALServiceRegistrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:33:02.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceRegistrations.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\ServiceRegistrations.cs",
+              "RelativeDocumentMoniker": "Business\\ServiceRegistrations.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\ServiceRegistrations.cs",
+              "RelativeToolTip": "Business\\ServiceRegistrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:23:40.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "RelativeToolTip": "Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:12:22.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NegativeIdException.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\Helpers\\Exceptions\\Common\\NegativeIdException.cs",
+              "RelativeDocumentMoniker": "Business\\Helpers\\Exceptions\\Common\\NegativeIdException.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\Helpers\\Exceptions\\Common\\NegativeIdException.cs",
+              "RelativeToolTip": "Business\\Helpers\\Exceptions\\Common\\NegativeIdException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:58:14.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModelService.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\Services\\Implementations\\ModelService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Implementations\\ModelService.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\Services\\Implementations\\ModelService.cs",
+              "RelativeToolTip": "Business\\Services\\Implementations\\ModelService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:56:29.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllModelDto.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\DTOs\\Model\\GetAllModelDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Model\\GetAllModelDto.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\DTOs\\Model\\GetAllModelDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Model\\GetAllModelDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:52:56.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetModelDto.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\DTOs\\Model\\GetModelDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Model\\GetModelDto.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\DTOs\\Model\\GetModelDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Model\\GetModelDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:50:54.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IModelService.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\Services\\Interfaces\\IModelService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Interfaces\\IModelService.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\Services\\Interfaces\\IModelService.cs",
+              "RelativeToolTip": "Business\\Services\\Interfaces\\IModelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:49:29.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\DAL\\Repositories\\Implementations\\ModelRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Implementations\\ModelRepository.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\DAL\\Repositories\\Implementations\\ModelRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Implementations\\ModelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:45:35.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IModelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\DAL\\Repositories\\Interfaces\\IModelRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IModelRepository.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\DAL\\Repositories\\Interfaces\\IModelRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IModelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:21:43.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\DAL\\Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\DAL\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:13:44.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:09:57.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\WebApp.API\\Controllers\\ModelsController.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Controllers\\ModelsController.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\WebApp.API\\Controllers\\ModelsController.cs",
+              "RelativeToolTip": "WebApp.API\\Controllers\\ModelsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wBoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:06:27.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241223191908_AddModelTable.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\DAL\\Migrations\\20241223191908_AddModelTable.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20241223191908_AddModelTable.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\DAL\\Migrations\\20241223191908_AddModelTable.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20241223191908_AddModelTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:19:08.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\WebApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\WebApp.API\\Program.cs",
+              "RelativeToolTip": "WebApp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:09:55.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\WebApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\WebApp.API\\appsettings.json",
+              "RelativeToolTip": "WebApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T19:08:15.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ModelConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\DAL\\Context\\Configurations\\ModelConfiguration.cs",
+              "RelativeDocumentMoniker": "DAL\\Context\\Configurations\\ModelConfiguration.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\DAL\\Context\\Configurations\\ModelConfiguration.cs",
+              "RelativeToolTip": "DAL\\Context\\Configurations\\ModelConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:06:33.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\DAL\\Context\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Context\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\DAL\\Context\\AppDBContext.cs",
+              "RelativeToolTip": "DAL\\Context\\AppDBContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBYAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:53:45.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\Core\\Entities\\Model.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Model.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\Core\\Entities\\Model.cs",
+              "RelativeToolTip": "Core\\Entities\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:52:00.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:49:25.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T18:46:39.492Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

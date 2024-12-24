@@ -1,0 +1,748 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Migrations\\20241204090706_addUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NestTask\\Migrations\\20241204090706_addUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\areas\\dashboard\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\areas\\dashboard\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\areas\\dashboard\\viewmodels\\product\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\areas\\dashboard\\viewmodels\\product\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\helpers\\extension\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\helpers\\extension\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\areas\\dashboard\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\areas\\dashboard\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\areas\\dashboard\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\areas\\dashboard\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\areas\\dashboard\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\areas\\dashboard\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\models\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\models\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\areas\\dashboard\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\areas\\dashboard\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Migrations\\20241204075739_Addtableconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NestTask\\Migrations\\20241204075739_Addtableconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\areas\\dashboard\\controllers\\panelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\areas\\dashboard\\controllers\\panelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\areas\\dashboard\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\areas\\dashboard\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\areas\\dashboard\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\areas\\dashboard\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\areas\\dashboard\\views\\tag\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\areas\\dashboard\\views\\tag\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\areas\\dashboard\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\areas\\dashboard\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\areas\\dashboard\\views\\tag\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\areas\\dashboard\\views\\tag\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\areas\\dashboard\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\areas\\dashboard\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\areas\\dashboard\\views\\tag\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\areas\\dashboard\\views\\tag\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\areas\\dashboard\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\areas\\dashboard\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\areas\\dashboard\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\areas\\dashboard\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\areas\\dashboard\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\areas\\dashboard\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\areas\\dashboard\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\areas\\dashboard\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\areas\\dashboard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\areas\\dashboard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Migrations\\20241204060635_AddAllTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NestTask\\Migrations\\20241204060635_AddAllTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\areas\\dashboard\\views\\panel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\areas\\dashboard\\views\\panel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\areas\\dashboard\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\areas\\dashboard\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\controllers\\detailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\controllers\\detailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|c:\\users\\i novbe\\source\\repos\\nesttask\\nesttask\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58905F18-494C-42C1-9600-930A403A984B}|NestTask\\NestTask.csproj|solutionrelative:nesttask\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "NestTask\\Areas\\Dashboard\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "NestTask\\Areas\\Dashboard\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwD0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:42:06.378Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\ViewModels\\Account\\RegisterVm.cs",
+              "RelativeDocumentMoniker": "NestTask\\ViewModels\\Account\\RegisterVm.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\ViewModels\\Account\\RegisterVm.cs",
+              "RelativeToolTip": "NestTask\\ViewModels\\Account\\RegisterVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:13:43.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "NestTask\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "NestTask\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T09:10:53.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "NestTask\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "NestTask\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:08:27.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241204090706_addUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Migrations\\20241204090706_addUserTable.cs",
+              "RelativeDocumentMoniker": "NestTask\\Migrations\\20241204090706_addUserTable.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Migrations\\20241204090706_addUserTable.cs",
+              "RelativeToolTip": "NestTask\\Migrations\\20241204090706_addUserTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:07:06.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "NestTask\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Models\\AppUser.cs",
+              "RelativeToolTip": "NestTask\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:53:47.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateProductVm.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\ViewModels\\Product\\CreateProductVm.cs",
+              "RelativeDocumentMoniker": "NestTask\\Areas\\Dashboard\\ViewModels\\Product\\CreateProductVm.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\ViewModels\\Product\\CreateProductVm.cs",
+              "RelativeToolTip": "NestTask\\Areas\\Dashboard\\ViewModels\\Product\\CreateProductVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:16:10.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileExtension.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Helpers\\Extension\\FileExtension.cs",
+              "RelativeDocumentMoniker": "NestTask\\Helpers\\Extension\\FileExtension.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Helpers\\Extension\\FileExtension.cs",
+              "RelativeToolTip": "NestTask\\Helpers\\Extension\\FileExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:10:48.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "NestTask\\Areas\\Dashboard\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "NestTask\\Areas\\Dashboard\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T08:07:34.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "NestTask\\Areas\\Dashboard\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "NestTask\\Areas\\Dashboard\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T08:01:34.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "NestTask\\Areas\\Dashboard\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "NestTask\\Areas\\Dashboard\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:45:02.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "NestTask\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Models\\Product.cs",
+              "RelativeToolTip": "NestTask\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:01:03.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\DAL\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "NestTask\\DAL\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\DAL\\AppDBContext.cs",
+              "RelativeToolTip": "NestTask\\DAL\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:55:16.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Program.cs",
+              "RelativeDocumentMoniker": "NestTask\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Program.cs",
+              "RelativeToolTip": "NestTask\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA6wBIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:54:02.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\appsettings.json",
+              "RelativeDocumentMoniker": "NestTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\appsettings.json",
+              "RelativeToolTip": "NestTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T04:53:45.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductImages.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Models\\ProductImages.cs",
+              "RelativeDocumentMoniker": "NestTask\\Models\\ProductImages.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Models\\ProductImages.cs",
+              "RelativeToolTip": "NestTask\\Models\\ProductImages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:30:58.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "NestTask\\Areas\\Dashboard\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "NestTask\\Areas\\Dashboard\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwEAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:00:02.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241204075739_Addtableconn.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Migrations\\20241204075739_Addtableconn.cs",
+              "RelativeDocumentMoniker": "NestTask\\Migrations\\20241204075739_Addtableconn.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Migrations\\20241204075739_Addtableconn.cs",
+              "RelativeToolTip": "NestTask\\Migrations\\20241204075739_Addtableconn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:57:39.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "NestTask\\Areas\\Dashboard\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "NestTask\\Areas\\Dashboard\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T06:50:02.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TagController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Controllers\\TagController.cs",
+              "RelativeDocumentMoniker": "NestTask\\Areas\\Dashboard\\Controllers\\TagController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Controllers\\TagController.cs",
+              "RelativeToolTip": "NestTask\\Areas\\Dashboard\\Controllers\\TagController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwEoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:04:58.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Tag\\Update.cshtml",
+              "RelativeDocumentMoniker": "NestTask\\Areas\\Dashboard\\Views\\Tag\\Update.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Tag\\Update.cshtml",
+              "RelativeToolTip": "NestTask\\Areas\\Dashboard\\Views\\Tag\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T07:23:11.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "NestTask\\Areas\\Dashboard\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "NestTask\\Areas\\Dashboard\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T06:24:50.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PanelController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Controllers\\PanelController.cs",
+              "RelativeDocumentMoniker": "NestTask\\Areas\\Dashboard\\Controllers\\PanelController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Controllers\\PanelController.cs",
+              "RelativeToolTip": "NestTask\\Areas\\Dashboard\\Controllers\\PanelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:45:44.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Tag\\Create.cshtml",
+              "RelativeDocumentMoniker": "NestTask\\Areas\\Dashboard\\Views\\Tag\\Create.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Tag\\Create.cshtml",
+              "RelativeToolTip": "NestTask\\Areas\\Dashboard\\Views\\Tag\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T07:07:12.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "NestTask\\Areas\\Dashboard\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "NestTask\\Areas\\Dashboard\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T06:12:59.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Tag\\Index.cshtml",
+              "RelativeDocumentMoniker": "NestTask\\Areas\\Dashboard\\Views\\Tag\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Tag\\Index.cshtml",
+              "RelativeToolTip": "NestTask\\Areas\\Dashboard\\Views\\Tag\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T07:07:46.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "NestTask\\Areas\\Dashboard\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "NestTask\\Areas\\Dashboard\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T06:10:34.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Slider\\Update.cshtml",
+              "RelativeDocumentMoniker": "NestTask\\Areas\\Dashboard\\Views\\Slider\\Update.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Slider\\Update.cshtml",
+              "RelativeToolTip": "NestTask\\Areas\\Dashboard\\Views\\Slider\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T06:53:38.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "NestTask\\Areas\\Dashboard\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "NestTask\\Areas\\Dashboard\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T06:43:05.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241204060635_AddAllTable.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Migrations\\20241204060635_AddAllTable.cs",
+              "RelativeDocumentMoniker": "NestTask\\Migrations\\20241204060635_AddAllTable.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Migrations\\20241204060635_AddAllTable.cs",
+              "RelativeToolTip": "NestTask\\Migrations\\20241204060635_AddAllTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:06:35.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NestTask\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NestTask\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC4BAAAAAAAAAAAAAEsAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T05:49:30.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NestTask\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NestTask\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T05:48:46.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NestTask\\Areas\\Dashboard\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NestTask\\Areas\\Dashboard\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T05:47:51.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Panel\\Index.cshtml",
+              "RelativeDocumentMoniker": "NestTask\\Areas\\Dashboard\\Views\\Panel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Areas\\Dashboard\\Views\\Panel\\Index.cshtml",
+              "RelativeToolTip": "NestTask\\Areas\\Dashboard\\Views\\Panel\\Index.cshtml",
+              "ViewState": "AgIAADoBAAAAAAAAAAAwwFoBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T05:46:07.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "NestTask\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "NestTask\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-04T05:24:33.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DetailController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Controllers\\DetailController.cs",
+              "RelativeDocumentMoniker": "NestTask\\Controllers\\DetailController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Controllers\\DetailController.cs",
+              "RelativeToolTip": "NestTask\\Controllers\\DetailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:45:03.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NestTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NestTask\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:23:23.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "NestTask\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Models\\Slider.cs",
+              "RelativeToolTip": "NestTask\\Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:00:52.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NestTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NestTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsDAAAAAAAAAAAAACkDAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T05:25:26.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NestTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NestTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAF4BAAAAAAAAAAAIwNsQAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T05:23:16.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "NestTask\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Models\\Category.cs",
+              "RelativeToolTip": "NestTask\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:08:01.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "NestTask\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Models\\Tag.cs",
+              "RelativeToolTip": "NestTask\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:07:43.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "NestTask\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\NestTask\\NestTask\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "NestTask\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:00:20.458Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

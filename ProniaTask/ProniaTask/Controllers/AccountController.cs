@@ -51,6 +51,18 @@ namespace ProniaTask.Controllers
                 user.UserName = vm.Name + vm.Surname;
 
             }
+<<<<<<< HEAD
+=======
+            string token =await _userManager.GenerateEmailConfirmationTokenAsync(user);
+
+            string link = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, token = token }, HttpContext.Request.Scheme);
+            await mailService.SendEmailAsync(new MailRequest()
+            {
+                Subject = "Confirm Email",
+                ToEmail = vm.Email,
+                Body = $"<p>{user.Name} Confirmliyin emaili </p><br><a href='{link}'>Confirm Email</a>"
+            });
+>>>>>>> c75303d350a72b26675aebf2440e05b5a7745bd7
             var result = await _userManager.CreateAsync(user, vm.Password);
             if (!result.Succeeded)
             {
@@ -143,7 +155,11 @@ namespace ProniaTask.Controllers
             if (user == null) { return NotFound(); }
             string token = await _userManager.GeneratePasswordResetTokenAsync(user);
 
+<<<<<<< HEAD
             string link = Url.Action("ResetPassword", "Account", new { userId = user.Id, token = token }, HttpContext.Request.Scheme);
+=======
+            string link = Url.Action("ResetPassword", "Account", new { userId = user.Id, token = token },Request.Scheme );
+>>>>>>> c75303d350a72b26675aebf2440e05b5a7745bd7
             await mailService.SendEmailAsync(new MailRequest()
             {
                 Subject = "Reset Password",
@@ -167,6 +183,7 @@ namespace ProniaTask.Controllers
             var result = await _userManager.ResetPasswordAsync(user, token, vm.Password);
             return RedirectToAction("Login");
         }
+<<<<<<< HEAD
         public async Task<IActionResult> ConfirmEmail(string userId, string token)
         {
             if (userId == null || token == null)
@@ -181,6 +198,25 @@ namespace ProniaTask.Controllers
                 return View();
             }
             return BadRequest();
+=======
+
+        public async Task<IActionResult> ConfirmEmail(string userId,string token)
+        {
+            if(userId==null || token == null)
+            {
+                return BadRequest();
+            }
+           
+            AppUser user = await _userManager.FindByIdAsync(userId);
+            if (user == null)
+            {
+                return NotFound();
+            }
+            user.EmailConfirmed = true;
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Login));
+>>>>>>> c75303d350a72b26675aebf2440e05b5a7745bd7
         }
     }
 }  
